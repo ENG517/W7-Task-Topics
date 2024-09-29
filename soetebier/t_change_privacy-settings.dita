@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_SI_PIP_CPS">
-  <tasktitle> Change Personal Information Privacy Settings </tasktitle>
-  
+  <title> Change Personal Information Privacy Settings </title>
   <shortdesc> This tutorial will help you to change the privacy settings for your personal information. As a part of thee Family Education Rights and Privacy Act (FERPA) you have the right to restrict part or all of your director information </shortdesc>
-  
-  <prereq> You must Log in to the MyPack portal using your NC State Unity Credentials. Dual authentication may be required. </prereq>
-  
   <taskbody>
+    <prereq> You must Log in to the MyPack portal using your NC State Unity Credentials. Dual authentication may be required. </prereq>
     <steps id="steps_SI_PIP_CPS">
       <step> 
-        <cmd>Select your Student Homepage<cmd>
+        <cmd>Select your Student Homepage</cmd>
       </step>
       <step> 
         <cmd>Select the "Personal Information tile"</cmd>
@@ -23,15 +20,21 @@
         <substeps id="substeps_SI_PI_CPS_RES">     
           <substep>
             <cmd> Select restrict under the directory field you would like to restrict access to. </cmd>
+          </substep>
           <substep> 
             <cmd> Select clear if you wish to release the restriction for that field. </cmd>
           </substep>
         </substeps>
+      </step>
       <step> 
         <cmd>If you want to create a full privacy block, Select that field and check restricted. </cmd> 
-        <info>Select a “full privacy” block to prevent us from sharing your information with anyone, including employers. A full privacy block also prevents your inclusion in graduation and Dean’s List publications.</info>
+        <info>
+          <p>Select a “full privacy” block to prevent us from sharing your information with anyone, including employers. A full privacy block also prevents your inclusion in graduation and Dean’s List publications. </p>
+          </info>
         <substeps id="substeps_SI_PI_CPS_FPB">
-          <substep> Select any exceptions you would like to grant.</substep>
+          <substep> 
+            <cmd> Select any exceptions you would like to grant. </cmd>
+          </substep>
         </substeps>
       </step>
       <step> 
