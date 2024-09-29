@@ -2,6 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_SI_PI_VPI">
   <title>View personal information</title>
+  <shortdesc>This tutorial will help you find where to view your personal information in the MyPack portal.</shortdesc>
   <taskbody>
     <prereq>You must have access to NC State unity credentials to access student Personal Information. You will only be able to make changes to your own information. Dual authentication may be required.</prereq>
     <steps id= "steps_SI_PI_VPI">
@@ -10,29 +11,11 @@
       </step>
       <step>
         <cmd> Log in to the portal using your NC State Unity credentials. </cmd>
-        <info> <<p>Dual authentication may be required.</p> </info>
+        <info> <p>Dual authentication may be required.</p> </info>
       </step>
       <step>
         <cmd> Click the student information tile. </cmd>
-        <info> <p>On the Personal Information tile, you will be able to view and update all of your personal information, including:</p>
-        <ul>
-          <li>Personal Details
-            <li>Student ID Number</li>
-            <li>Name</li>
-            <li>Preferred Name</li></li>
-          <li>Contact Details
-            <li>Email Addresses</li>
-            <li>Phone Numbers</li></li>
-          <li>Addresses</li>
-          <li>Emergency Contacts</li>
-          <li>Text/Email Notification Setup</li>
-          <li>Ethnicity</li>
-          <li>Residency</li>
-          <li>Veterans Information</li>
-          <li>OIS Compliance Verification</li>
-          <li>Provide Social Security Number</li>
-          <li>Parent & Guardian Access</li>
-        </ul>
+        <info> <p>On the Personal Information tile, you will be able to view and update all of your personal information.</p></info>
       </step>
     </steps>
   </taskbody>

@@ -2,6 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_SI_STUAD_ADDAD">
     <title> Add a New Adresses </title>
+    <shortdesc>This tutorial  will help you add new addresses using the MyPack Portal.</shortdesc>
     <taskbody>
         <prereq>You must be logged in to the MyPack Portal to make changes to your address. Dual authentication may be required.</prereq>  
         <steps id= "steps_SI_STUAD_ADDAD">
@@ -15,7 +16,7 @@
                 <cmd> From the left-hand navigation menu, select Addresses. </cmd>
             </step>
             <step>
-                <cmd>Under the appropriate header, if no address is defined, select the ‘Add Address’ button <cmd>
+                <cmd>Under the appropriate header, if no address is defined, select the ‘Add Address’ button </cmd>
             </step>
             <step>
                 <cmd>You can either select the ‘Copy From’ button to copy the address from address that is already on record, or manually enter an address in the given fields.</cmd>

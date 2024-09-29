@@ -2,8 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_SI_STUAD_UPAD">
     <title>Update an Address</title>
+    <shortdesc>This tutorial will help you update existing addresses using the MyPack Portal.</shortdesc>
     <taskbody>
-        <pre-req>You must be logged in to the MyPack Portal to make changes to your address. Dual authentication may be required. There must also be an existing address in the portal. To add a new address, See Adding a New Address.</prereq>  
+        <prereq>You must be logged in to the MyPack Portal to make changes to your address. Dual authentication may be required. There must also be an existing address in the portal. To add a new address, See Adding a New Address.</prereq>  
         <steps id= "steps_SI_STUAD_UPAD">
             <step>
                 <cmd>Select your Student Homepage </cmd>
@@ -15,7 +16,7 @@
                 <cmd> From the left-hand navigation menu, select Addresses. </cmd>
             </step>
             <step>
-                <cmd>Under the appropriate header, click on the address box for the address you wish to change. <cmd>
+                <cmd>Under the appropriate header, click on the address box for the address you wish to change. </cmd>
             </step>
             <step>
                 <cmd>Update the address fields as necessary</cmd>
