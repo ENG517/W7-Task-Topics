@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="enter-unique-id-here">\
+    <title>Add or Update an Address</title>
+        <direct>To ADD an address, log in to your MyPack Portal:</direct>
+             <steps>
+                 <ol>Select your Student Homepage</ol> 
+                 <ol>Select the ‘Personal Information’ tile</ol>
+                 <ol>From the left-hand navigation menu, select ‘Addresses’</ol>
+                 <ol>Under the appropriate header, e.g. ‘Diploma Address,’ if no address is defined, select the ‘Add Diploma Address’ button</ol>
+                 <ol>You can either select the ‘Copy From’ button to copy the address from address that is already on record, or manually enter an address in the given fields</ol>
+                 <ol>Select the green ‘Save’ button</ol>
+            </steps>
+        <direct>To UPDATE an address that you have already provided, log into your MyPack Portal:</direct>
+            <steps>
+                 <ol>Select your Student Homepage</ol>
+                 <ol>Select the ‘Personal Information’ tile</ol>
+                 <ol>From the left-hand navigation menu, select ‘Addresses’</ol>
+                 <ol>Under the appropriate header, e.g. ‘Home Address,’ click on the address box under the appropriate header</ol>
+                 <ol>Update the address fields as necessary</ol>
+                 <ol>Select the green ‘Save’ button</ol>
+            </steps>
+</task>
