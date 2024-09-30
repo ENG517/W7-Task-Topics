@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="enter-unique-id-here">
+  <title>Directory Information Privacy Settings</title>
+  <taskbody>
+
+    <context>
+        <p>Under the Family Educational Rights and Privacy Act (FERPA), you have the right to restrict all or part of your directory information, which includes your preferred email, your enrollment status (full-time/part-time), major field of study, and more. 
+        </p>
+        <p>If you wish to restrict this information, you can do so in your MyPack Portal:
+        </p>
+    </context>
+
+    <steps>
+      <step>
+        <cmd>Navigate to MyPack Portal</cmd>
+      </step>
+
+      <step>
+        <cmd>Select your Student Homepage</cmd>
+      </step>
+
+      <step>
+        <cmd>Select the 'Personal Information' tile</cmd>
+      </step>
+
+      <step>
+        <cmd>From the left-hand naviagation menu, select 'Privacy Restrictions'</cmd>
+      </step>
+
+      <step>
+        <cmd>Select 'Restrict' under the directory field you would like to restrict access to, OR select 'Clear' if you wish to release the restriction for that field</cmd>
+      </step>
+
+      <step>
+        <cmd>If you choose a Full Privacy Block, you can grant exceptions for certain publications by clicking the Full Privacy Block field, checking the 'Restricted' box, and selecting the Exceptions you would like to grant</cmd>
+      </step>
+
+      <step>
+        <cmd>Be sure to click the green 'Save' button to save your changes</cmd>
+        <info>
+          <p>Select a “full privacy” block to prevent us from sharing your information with anyone, including employers. A full privacy block also prevents your inclusion in graduation and Dean's List publications.</p>
+        </info>
+      </step>
+    </steps>
+
+  </taskbody>
+  
+</task>

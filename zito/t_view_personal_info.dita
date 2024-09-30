@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="zito-view-personal-info">
+
+  <title>View Your Personal Information</title>
+    <taskbody>
+      <context>To view or change your personal information in MyPack Portal:</context>
+
+      <steps>
+        <step>
+          <cmd>Enter your MyPack Portal</cmd>
+        </step>
+
+        <step>
+          <cmd>Go to Student Homepage</cmd>
+        </step>
+
+        <step>
+          <cmd>Click the Personal Information tile</cmd>
+          <info>
+            </p>On the Personal Information tile, you will be able to view and update all of your personal information, including:
+              <ul>
+                <li>Personal Details</li>
+                <li>Contact Details</li>
+                <li>Addresses</li>
+                <li>Emergency Contacts</li>
+                <li>Text/Email Notification Setup</li>
+                <li>Ethnicity</li>
+                <li>Privacy Restrictions</li>
+                <li>Residency</li>
+                <li>Veterans Information</li>
+                <li>OIS Compliance Verification</li>
+                <li>Provide Social Security Number</li>
+                <li>Parent and Guardian Access</li>
+              </ul>
+            </p>
+          </info>      
+        </step>
+
+      </steps>
+      
+    </taskbody>
+  
+</task>
