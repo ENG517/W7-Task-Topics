@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="accessing_privacy_settings">
+  <<title>Accessing Privacy Settings</title>
+    </taskbody>
+        <steps>
+            <step>
+                <cmd>Select your Student Homepage<cmd>
+            <step>
+                <cmd>Select the ‘Personal Information’ tile<cmd>
+            <step>
+                <cmd>From the left-hand navigation menu, select ‘Privacy Restrictions’<cmd>
+            <step>
+                <cmd>Select ‘Restrict’ under the directory field you would like to restrict access to, OR select ‘Clear’ if you wish to release the restriction for that field<cmd>
+            <step>
+                <cmd>If you choose a Full Privacy Block, you can grant exceptions for certain publications by clicking the Full Privacy Block field, checking the ‘Restricted’ box, and selecting the Exceptions you would like to grant<cmd>
+            <step>
+                <cmd>Be sure to click the green ‘Save’ button to save your changes<cmd>
+    </taskbody>
+    </task>
