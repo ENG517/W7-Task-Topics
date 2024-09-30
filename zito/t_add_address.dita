@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="enter-unique-id-here">
+  <title>Add an Address</title>
   <taskbody>
-    <title>Add an Address</title>
     <prereq>To ADD an address, log into your MyPack Portal:</prereq>
     <steps>
       <step>
