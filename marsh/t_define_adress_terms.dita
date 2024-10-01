@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="address_definitions">
+    <title>Student Addresses</title>
+        <context> NC State University collects student address information through the student admission process. The university maintains several addresses for students in order to maintain accurate student records and information. Students are asked to regularly verify and update address information on record with the university through the MyPack Portal student information system. </context>
+        <subtitle>Address Definitions</subtitle>
+            <ul>
+                <term>Home Address</term><def>This address is used for mailing purposes and should describe the location where you would like to receive your mail. (If you use a PO Box, you may enter that address here.)</def>
+                <term>Permanent Address</term><def>This address persists beyond the students attendance at the University. This may be a parents address or your permanent address.</def>
+                <term>Local Address</term><def>This address should be the students physical living location while attending NC State and where you can be reached in an emergency. Effective Fall 2020, every term, students will be notified via MyPack Portal to verify or update their Local Address on record in order for the university to maintain the current physical location of all students. Local Addresses are not considered directory information and will not be shared with unauthorized third parties.</def>
+                <term>Campus Housing Address</term><def>The students address in a University-managed residence hall or apartment; this is automatically populated if the student lives on campus, and it cannot be edited by the student.</def>
+                <term>Diploma Address</term><def>The address to which a students diploma should be mailed once the student graduates. This address is not required. If a Diploma Address is not provided, the diploma will be mailed to the students Home Address on record.</def>
+                <term>SEVIS Local Address</term><def>The students local address while you are at NC State, which is sent to SEVIS. This address should match your Local Address. Please visit the Office of International Services for information on what to do if you need to update this address.</def>
+                <term>SEVIS Foreign Address</term><def>The students home foreign address. This is automatically populated for all international students based on the information provided in during the admission process. Please visit the Office of International Services for information on what to do if you need to update this address.</def>
+            </ul>
+</task>

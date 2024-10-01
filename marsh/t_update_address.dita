@@ -6,7 +6,7 @@
     <shortdesc>This tutorial will help you update existing addresses using the MyPack Portal at NC State University.</shortdesc>
     <taskbody>
         <prereq>You must be a student at NC State University. You must be logged in to your student account to have access to the change address page. </prereq>  
-        <steps id= "steps_SI_STUAD_UPAD">
+        <steps id= "steps_update_adress">
             <step>
                 <cmd>Select your Student Homepage </cmd>
             </step>
