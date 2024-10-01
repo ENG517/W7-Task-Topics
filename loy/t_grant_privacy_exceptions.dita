@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="enter-unique-id-here">
+  <!-- Enter task topic content inside the main task element -->
+  <title>Grant Privacy Exceptions</title>
+    <taskbody>
+      <shortdesc>If you choose a Full Privacy Block, you can grant exceptions for certain publications.</shortdesc>
+      <steps>
+        <step>
+          <cmd>Select the Full Privacy Block field.</cmd>
+        </step>
+        <step>
+          <cmd>Check the ‘Restricted’ box.</cmd>
+        </step>
+        <step>
+          <cmd>Select the Exceptions you would like to grant.</cmd>
+        </step>
+        <step>
+          <cmd>Select the green ‘Save’ button to save your changes.</cmd>
+        </step>
+      </steps>
+    </taskbody>
+</task>
