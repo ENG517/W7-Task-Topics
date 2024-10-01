@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="viewing_personal_info">
+<task id="viewing-personal-info">
   <!-- Enter task topic content inside the main task element -->
 <title> View Your Personal Information </title>
   <taskbody>
     <shortdesc> This guide will help you view your personal information in Mypack </shortdesc> 
     <prereq> You will need credentials to access your personal Mypack account </prereq>
       <note> This guide will take place on the personal information tile within Mypack portal on the "Student Homepage" </note> 
-  <steps>
+    <steps id="viewing-personal-info">
       <step> 
         <cmd> Login to your Mypack account </cmd> 
       </step>
