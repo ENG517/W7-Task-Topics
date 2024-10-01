@@ -3,8 +3,8 @@
 <task id="enter-unique-id-here">
   <!-- Enter task topic content inside the main task element -->
   <title>View Your Personal Information</title>
-    <shortdesc>To view or change your personal information in MyPack Portal:</shortdesc>
     <taskbody>
+      <shortdesc>To view or change your personal information in MyPack Portal:</shortdesc>
       <steps>
         <step>
           <cmd>Log into MyPack Portal.</cmd>
