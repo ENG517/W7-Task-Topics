@@ -2,14 +2,14 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="change-privacy-restrictions">
   <!-- Enter task topic content inside the main task element -->
-<title> How to Change Privacy Restictions </title>
+  <title> How to Change Privacy Restictions </title>
   <shortdesc> This task will show you how to change privacy restricitions in a Mypack profile </shortdesc> 
   <taskbody> 
-  <context> 
+    <context> 
     <p>
     Under the Family Educational Rights and Privacy Act (FERPA), you have the right to restrict all or part of your directory information, which includes your preferred email, your enrollment status (full-time/part-time), major field of study, and more. 
     </p>
-  </context>
+    </context>
 
     <prereq> You must have access to a Mypack profile account </prereq>
 
