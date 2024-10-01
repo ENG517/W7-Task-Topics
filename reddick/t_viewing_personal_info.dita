@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="viewing-personal-info">
   <!-- Enter task topic content inside the main task element -->
-<title> View Your Personal Information </title>
+  <title> View Your Personal Information </title>
   <taskbody>
     <shortdesc> This guide will help you view your personal information in Mypack </shortdesc> 
     <prereq> You will need credentials to access your personal Mypack account </prereq>
