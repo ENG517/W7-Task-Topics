@@ -1,6 +1,6 @@
  <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="rpi">
+<task id="restrict_personal_information">
   <!-- Enter task topic content inside the main task element -->
     <title>How to Restrict Your Personal Information</title>
     <taskbody>
