@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="enter-unique-id-here">
+  <!-- Enter task topic content inside the main task element -->
+  <title>Update Address in MyPack Portal</title>
+    <taskbody>
+      <shortdesc>Students are asked to regularly verify and update address information on record with the university through the MyPack Portal student information system. To update an address that you have already provided:</shortdesc>
+      <steps>
+        <step>
+          <cmd>Log into MyPack Portal.</cmd>
+        </step>
+        <step>
+          <cmd>Select your Student Homepage.</cmd>
+        </step>
+        <step>
+          <cmd>Select the ‘Personal Information’ tile.</cmd>
+        </step>
+        <step>
+          <cmd>From the left-hand navigation menu, select ‘Addresses’.</cmd>
+        </step>
+        <step>
+          <cmd>Under the appropriate header, e.g. ‘Home Address,’ click on the address box under the appropriate header.</cmd>
+        </step>
+        <step>
+          <cmd>Update the address fields as necessary.</cmd>
+        </step>
+        <step>
+          <cmd>Select the green ‘Save’ button.</cmd>
+        </step>
+      </steps>
+    </taskbody>
+</task>
