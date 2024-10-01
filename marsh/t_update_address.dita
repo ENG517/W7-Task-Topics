@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="enter-unique-id-here">
+  <!-- Add or Update an Adress -->
+    <title>Add or Update an Address</title>
+    <shortdesc>This tutorial will help you update existing addresses using the MyPack Portal at NC State University.</shortdesc>
+    <taskbody>
+        <prereq>You must be a student at NC State University. You must be logged in to your student account to have access to the change address page. </prereq>  
+        <steps id= "steps_SI_STUAD_UPAD">
+            <step>
+                <cmd>Select your Student Homepage </cmd>
+            </step>
+            <step>
+                <cmd> Select the Personal Information Tile </cmd>
+            </step>
+            <step>
+                <cmd> From the left-hand navigation menu, select Addresses. </cmd>
+            </step>
+            <step>
+                <cmd>Under the appropriate header, click on the address box for the address you wish to change. </cmd>
+            </step>
+            <step>
+                <cmd>Update the address fields as necessary</cmd>
+            </step>
+            <step>
+                <cmd>Select the green ‘Save’ button</cmd>
+            </step>
+        </steps>
+    </taskbody>
+  <!-- Enter task topic content inside the main task element -->
+
+</task>
