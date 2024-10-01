@@ -21,7 +21,8 @@
                   </p> 
                 </note>
             </step> 
-            <step> Entering Your Address
+            <step> 
+              <cmd> Entering Your Address </cmd>
                 <substeps=adding-address-substeps>
                   <substep>
                     <cmd> select the "Copy From" button to copy the address from address that is already on record </cmd> 
