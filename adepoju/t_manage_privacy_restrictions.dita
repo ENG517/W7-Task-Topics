@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="manage-privacy-restrictions">
+  <!-- Enter task topic content inside the main task element -->
+<title>Managing Privacy Restrictions</title>
+    <shortdesc>Restrict or release parts of your directory information under FERPA guidelines through MyPack Portal.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Log into MyPack Portal using your NC State Unity account.</cmd>
+            </step>
+            <step>
+                <cmd>Select the "Student Homepage."</cmd>
+            </step>
+            <step>
+                <cmd>Click on the "Personal Information" tile.</cmd>
+            </step>
+            <step>
+                <cmd>From the left-hand navigation menu, select "Privacy Restrictions."</cmd>
+            </step>
+            <step>
+                <cmd>Choose to "Restrict" or "Clear" access under the directory fields you want to manage.</cmd>
+            </step>
+            <step>
+                <cmd>If applying a Full Privacy Block, click the relevant field, check "Restricted," and select any exceptions.</cmd>
+            </step>
+            <step>
+                <cmd>Click the green "Save" button to apply your changes.</cmd>
+            </step>
+        </steps>
+        <result>After completing these steps, your directory information settings will be updated according to your preferences.</result>
+    </taskbody>
+</task>
