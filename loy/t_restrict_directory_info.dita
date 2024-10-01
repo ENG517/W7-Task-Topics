@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="enter-unique-id-here">
+  <!-- Enter task topic content inside the main task element -->
+  <title>Restrict Directory Information</title>
+    <taskbody>
+      <shortdesc>Under the Family Educational Rights and Privacy Act (FERPA), you have the right to restrict all or part of your directory information, which includes your preferred email, your enrollment status (full-time/part-time), major field of study, and more. If you wish to restrict this information, you can do so in your MyPack Portal:</shortdesc>
+      <steps>
+        <step>
+          <cmd>Select your Student Homepage</cmd>
+        </step>
+        <step>
+          <cmd>Select the ‘Personal Information’ tile</cmd>
+        </step>
+        <step>
+          <cmd>From the left-hand navigation menu, select ‘Privacy Restrictions’</cmd>
+        </step>
+        <step>
+          <cmd>Select ‘Restrict’ under the directory field you would like to restrict access to, OR select ‘Clear’ if you wish to release the restriction for that field</cmd>
+        </step>
+        <step>
+          <cmd>Select the green ‘Save’ button to save your changes.</cmd>
+        </step>
+      </steps>
+    </taskbody>
+</task>
