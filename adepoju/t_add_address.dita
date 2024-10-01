@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="add-address">
+  <!-- Enter task topic content inside the main task element -->
+<title>Adding an Address</title>
+    <shortdesc>Add a new address to your student records through the MyPack Portal.</shortdesc>
+    <taskbody>
+        <prereq>You must have an active NC State Unity account and be logged into MyPack Portal.</prereq>
+        <context>This process is necessary when you need to provide a new address for mailing, emergency contact, or diploma delivery purposes.</context>
+        <steps>
+            <step>
+                <cmd>Log into your MyPack Portal using your NC State Unity account.</cmd>
+            </step>
+            <step>
+                <cmd>Select the "Student Homepage."</cmd>
+            </step>
+            <step>
+                <cmd>Click on the "Personal Information" tile.</cmd>
+            </step>
+            <step>
+                <cmd>From the left-hand navigation menu, select "Addresses."</cmd>
+            </step>
+            <step>
+                <cmd>Under the appropriate header, such as 'Diploma Address,' if no address is defined, click the 'Add Diploma Address' button.</cmd>
+            </step>
+            <step>
+                <cmd>Choose to either select the 'Copy From' button to copy an address already on record, or manually enter an address in the provided fields.</cmd>
+            </step>
+            <step>
+                <cmd>Click the green 'Save' button to save your new address.</cmd>
+            </step>
+        </steps>
+        <result>After completing these steps, the new address will be added to your student records.</result>
+    </taskbody>
+</task>

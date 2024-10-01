@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="update_address">
+  <!-- Enter task topic content inside the main task element -->
+<title>Updating an Address</title>
+    <shortdesc>Update existing address information in your student records through the MyPack Portal.</shortdesc>
+    <taskbody>
+        <prereq>You must be logged into MyPack Portal with your NC State Unity account and have existing address information you wish to update.</prereq>
+        <context>This task is performed to ensure that your address records are current, which is critical for receiving university communications and for emergency situations.</context>
+        <steps>
+            <step>
+                <cmd>Log into your MyPack Portal using your NC State Unity account.</cmd>
+            </step>
+            <step>
+                <cmd>Select the "Student Homepage."</cmd>
+            </step>
+            <step>
+                <cmd>Click on the "Personal Information" tile.</cmd>
+            </step>
+            <step>
+                <cmd>From the left-hand navigation menu, select "Addresses."</cmd>
+            </step>
+            <step>
+                <cmd>Click on the address box under the appropriate header, such as 'Home Address.'</cmd>
+            </step>
+            <step>
+                <cmd>Update the address fields as necessary.</cmd>
+            </step>
+            <step>
+                <cmd>Click the green 'Save' button to save your changes.</cmd>
+            </step>
+        </steps>
+        <result>After completing these steps, your address information will be updated in your student records.</result>
+    </taskbody>
+</task>
