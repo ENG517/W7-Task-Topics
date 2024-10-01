@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="vpi">
+  <!-- Enter task topic content inside the main task element -->
+    <title></title>
+    <taskbody>
+        <prereq></<prereq>
+        <context></<context>
+        <steps>
+            <cmd></cmd>
+        </steps>
+    </taskbody>
+</task>

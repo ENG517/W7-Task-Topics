@@ -1,0 +1,34 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="rpi">
+  <!-- Enter task topic content inside the main task element -->
+    <title>How to Restrict Your Personal Information</title>
+    <taskbody>
+        <shortdesc>Under the Family Educational Rights and Privacy Act (FERPA), you have the right to restrict all or part of your directory information, which includes your preferred email, your enrollment status (full-time/part-time), major field of study, and more. 
+
+If you wish to restrict this information, you can do so in your MyPack Portal:</shortdesc>
+        <prereq>MyPack Portal > Student Homepage > Personal Information tile > Privacy Restrictions</prereq>
+        <steps>
+            <step>
+                <cmd>Select your Student Homepage</cmd>
+            </step>
+            <step>
+                <cmd>Select the ‘Personal Information’ tile</cmd>
+            </step>
+            <step>
+                <cmd>From the left-hand navigation menu, select ‘Privacy Restrictions’</cmd>
+            </step>
+            <step>
+                <cmd>Select ‘Restrict’ under the directory field you would like to restrict access to, OR select ‘Clear’ if you wish to release the restriction for that field</cmd>
+            </step>
+             <step>
+                <cmd>If you choose a Full Privacy Block, you can grant exceptions for certain publications by clicking the Full Privacy Block field, checking the ‘Restricted’ box, and selecting the Exceptions you would like to grant</cmd>
+            </step>
+             <step>
+                <cmd>Be sure to click the green ‘Save’ button to save your changes</cmd>
+            </step>
+
+        </steps>
+
+    </taskbody>
+</task>
