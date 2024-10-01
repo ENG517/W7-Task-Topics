@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="update-address">
+  <title> Updating an Address in Mypack Portal </title>
+  <shortdesc> How to Update an Address in Mypack Portal </shortdesc>
+  <taskbody>
+    <prereq> You Must Have a Mypack Portal Account to Access </prereq>
+    <steps id="update-address-steps"> 
+      <step> 
+        <cmd> Select your student homepage </cmd> 
+      </step>
+      <step> 
+        <cmd> Select the "Personal Information" tile </cmd> 
+      </step>
+      <step> 
+        <cmd> From the left-hand navigation menu, select "Addresses"
+      </step> 
+      <step> 
+        <cmd> Under the appropriate header click on the address box under the desired header </cmd> 
+      </step> 
+      <step> 
+        <cmd> Update the address fields as necessary </cmd> 
+      </step> 
+      <step> 
+        <cmd> Select the green "Save" button </cmd> 
+      </step> 
+    </steps> 
+  </taskbody> 
+</task> 
+      
+        
+
+
+
+
