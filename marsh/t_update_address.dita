@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="enter-unique-id-here">
-  <!-- Add or Update an Adress -->
+<task id="add-address-or-update">
     <title>Add or Update an Address</title>
     <shortdesc>This tutorial will help you update existing addresses using the MyPack Portal at NC State University.</shortdesc>
     <taskbody>
@@ -27,6 +26,4 @@
             </step>
         </steps>
     </taskbody>
-  <!-- Enter task topic content inside the main task element -->
-
 </task>
