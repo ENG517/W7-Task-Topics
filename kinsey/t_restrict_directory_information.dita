@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task-restrict-directory-info">
+ <title> </title>
+    <shortdesc> This procedure is meant to help a user restrict access the university has to your directory information </shortdesc>
+    <taskbody>
+        <prereq> You will need access to the internet, MyPack Portal access, and a phone for duo-autherntication if accessing from a laptop or computer.</prereq>
+        <context>
+             <p>Under the Family Educational Rights and Privacy Act (FERPA), students have the right to restrict all or part of their directory information, including their email, enrollment status (full or part-time), major, field of study, and more. </p>
+             <p>If you wish to restrict this information, then you may do so in MyPack Portal </p>
+        </context>
+        <steps id= "steps-restrict-directory-info ">
+            <step>
+                <cmd> Log into MyPack Portal. </cmd>
+            </step>
+            <step>
+                <cmd> Select your "Student Homepage". </cmd>
+            </step>
+            <step>
+                <cmd> Select the "Personal Information" tile. </cmd>
+            </step>
+            <step>
+                <cmd> From the left-hand navigation menu, select "Privacy Restrictions". </cmd>
+            </step>
+            <step>
+                <cmd> Select "Restrict" under the directory field you would like to restrcit access to,<span aid:cstyle="Bold">OR</span> select "Clear" if you wish to release the restriction for that field. </cmd>
+            </step>
+            <step>
+                <cmd> If you choose a Full Privacy block, you can grant exceptions for certain publications by clicking the Full Block field, checking the "Restricted" box, and selecting the Exceptions you would like to grant. </cmd>
+            </step>
+            <step>
+                <cmd> Be sure to click the green "Save" button to save your changes. </cmd>
+            </step>
+        </steps>
+    </taskbody>  
+</task>

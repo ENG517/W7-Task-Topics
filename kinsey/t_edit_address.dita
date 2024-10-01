@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_edit_addresses">
+ <title> How to Edit Addresses </title>
+    <shortdesc> This set of tasks is meant to help the user learn how to edit an address in their MyPack Portal. </shortdesc>
+    <taskbody>
+        <prereq> In order to complete this task, the user must have access to mypack, may need their phone for duo-authentication if working on a laptop or computer, and have access to the internet.</prereq>
+        <steps id= "steps_edit_address">
+            <step>
+                <cmd> Log into MyPack Portal </cmd>
+            </step>
+            <step>
+                <cmd> Select your "Student Homepage". </cmd>
+            </step>
+            <step>
+                <cmd> Select the "Personal Information" tile. </cmd>
+            </step>
+            <step>
+                <cmd> From the left-hand navigation menu, select "Addresses". </cmd>
+            </step>
+            <step>
+                <cmd> Under the appropriate header, click on the address box under the appropriate header. </cmd>
+                <info> For example, select the "Home Address" header, if an address is defined and needs updated. </info>
+            </step>
+            <step>
+                <cmd> Update the address fields as neccessary. </cmd>
+            </step>
+            <step>
+                <cmd> Select the green "Save" button. </cmd>
+            </step>
+        </steps>
+    </taskbody>    
+</task>
