@@ -11,6 +11,7 @@
  <steps> 
  <step>
  <cmd>Log into Mypack Portal</cmd>
+ </step>
  <step>
  <cmd> Go online to Mypack Portal log in web page</cmd>
  </step>
