@@ -1,30 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="Adding an address for diploma purposes (mailing) personal information">
+<task id="Adding-an-address-for-diploma-purposes-mailing-personal-information"
   <!-- Enter task topic content inside the main task element -->
 
-</task> Adding an address to personal information for mailing of your diploma</taks>
+<title> Adding an address to personal information for mailing of your diploma</title>
 <shortdesc> Students can add an address for mailing their diploma to their personal information in MyPack Portal</shortdesc>
  <taskbody>
  <prereq> Must be enrolled as a student
  Must have a Mypack Portal account</prereq>
- <steps> Log into Mypack Portal
- <cmd> Go online to Mypack Portal log in web page</cmd>
+ <steps> 
  <step>
+ <cmd>Log into Mypack Portal</cmd>
+ <step>
+ <cmd> Go online to Mypack Portal log in web page</cmd>
+ </step>
  <step>
  <cmd> Once logged in select the Personal Information tile</cmd>
+ </step>
  <step>
+ <cmd> On the left-hand navigation menu, select Personal Information</cmd>
+ </step>
  <step>
- <cmd> On the left-hand navigation menu, select Personal Information</cmb>
- <step>
- <step>
- <cmb> Select Addresses. Under Diploma Address header if no address is defined, click add address. If you have an address already on file you can use the Copy From button to copy that address into the Diploma Address area.</cmb>
+ <cmd> Select Addresses. Under Diploma Address header if no address is defined, click add address. If you have an address already on file you can use the Copy From button to copy that address into the Diploma Address area.</cmd>
+</step>
 <step>
+<cmd> Add your address information in the fields provided</cmd>
+</step>
 <step>
-<cmd> Add your address information in the fields provided</cmb>
-<step>
-<step>
-<step> Click the green Save button to save your updates</cmb>
+<cmd> Click the green Save button to save your updates</cmd>
 </step> 
 </steps> 
  </taskbody> 

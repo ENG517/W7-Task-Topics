@@ -1,29 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="Updating personal information access in MyPackPortal">
+<task id="Updating-personal-information-access-in-MyPackPortal">
   <!-- Enter task topic content inside the main task element -->
-
-</task> Students can allow as much or little access to their personal information per FERPA Regulations. This level of access can be controlled in MyPackPortal.</title>
-<shortdesc> How to update access to your personal information in My Pack Portal</shortdesc>
+ 
+<title>Updating personal information access in MyPack Portal</title>
+<context>Students can allow as much or little access to their personal information per FERPA Regulations. This level of access can be controlled in MyPackPortal.</context>
+<shortdesc>How to update access to your personal information in My Pack Portal</shortdesc>
 <taskbody>
 <prereq> Must be enrolled as a student
 Must have a My PackPortal account</prereq>
-<step>
+<steps>
 <step>
 <cmd> Go to the MyPack Portal log in web page</cmd>
-<step>
+</step>
 <step>
 <cmd> Log into your My Pack Portal account.</cmd>
-<step>
+</step>
 <step>
 <cmd>From the Homepage select the Personal Information tile.</cmd>
-<step>
+</step>
 <step>
 <cmd> From the left-hand navigation menu select Privacy Restrictions.</cmd>
-<step>
+</step>
 <step>
 <cmd>Select Restrict in the directory field you would like to restrict access to. OR select Clear if you would like to release the restriction for that field.</cmd>
-<step>
+</step>
 <step>
 <cmd> Click the green Save button to save your changes.</cmd>
 </step> 

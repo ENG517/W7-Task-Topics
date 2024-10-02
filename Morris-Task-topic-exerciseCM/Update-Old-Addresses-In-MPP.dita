@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="Update your address already provided in MyPack Portal">
+<task id="Update-your-address-already-provided-in-MyPack-Portal"
   <!-- Enter task topic content inside the main task element -->
+<title> Update mailing address in MyPack Portal</title>
 
-</task> Update address already saved in MyPack Portal</taks>
 <shortdesc> Students can update their personal information in MyPack Portal</shortdesc>
  <taskbody>
  <prereq> Must be enrolled as a student
  Must have a Mypack Portal account</prereq>
- <steps> Log into Mypack Portal
- <cmd> Go online to Mypack Portal log in web page</cmd>
+ <steps> 
  <step>
+ <cmd>Log into Mypack Portal</cmd>
+ </step>
+ <step>
+ <cmd> Go online to Mypack Portal log in web page</cmd>
+ </step>
  <step>
  <cmd> Once logged in select the Personal Information tile</cmd>
+ </step>
  <step>
+ <cmd> On the left-hand navigation menu, select Addresses. Under the Header select Home Address.</cmd>
+ </step>
  <step>
- <cmd> On the left-hand navigation menu, select Addresses. Under the Header select Home Address.</cmb>
- <step>
- <step>
- <cmb> Update the address fileds as needed.</cmb>
-
-<step> Click the green Save button to save your updates</cmb>
+ <cmd> Update the address fileds as needed.</cmd>
+</step>
+<step> 
+<cmd>Click the green Save button to save your updates</cmd>
 </step> 
 </steps> 
  </taskbody> 
