@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_add_home_address">
+  <!-- Enter task topic content inside the main task element -->
+  <title>Add Your Home Address</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Log in to <b>MyPack Portal</b> using your Unity account credentials.</cmd>
+      </step>
+      <step>
+        <cmd>Select the <b>Student Homepage</b>.</cmd>
+      </step>
+      <step>
+        <cmd>Click on the <b>Personal Information</b> tile.</cmd>
+      </step>
+      <step>
+        <cmd>From the left-hand navigation menu, select <b>Addresses</b>.</cmd>
+      </step>
+      <step>
+        <cmd>Under the <b>Home Address</b> header, click <b>Add Home Address</b>.</cmd>
+      </step>
+      <step>
+        <cmd>Enter your home address in the fields provided or click <b>Copy From</b> to copy an existing address.</cmd>
+      </step>
+      <step>
+        <cmd>Click <b>Save</b> to store your address information.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
