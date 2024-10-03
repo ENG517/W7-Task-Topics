@@ -5,23 +5,24 @@
   <title> How to Change Privacy Restictions </title>
   <shortdesc> This task will show you how to change privacy restricitions in a Mypack profile </shortdesc> 
   <taskbody> 
+    <prereq> You must have access to a Mypack profile account </prereq>
     <context> 
     <p>
     Under the Family Educational Rights and Privacy Act (FERPA), you have the right to restrict all or part of your directory information, which includes your preferred email, your enrollment status (full-time/part-time), major field of study, and more. 
     </p>
     </context>
 
-    <prereq> You must have access to a Mypack profile account </prereq>
+    
 
     <steps id="change-privacy-restrictions-steps"> 
       <step> 
         <cmd> Select Your Student Homepage </cmd> 
       </step> 
       <step> 
-        <cmd> Select The'Personal Information' Tile
+        <cmd> Select The'Personal Information' Tile </cmd>
       </step>
       <step> 
-        <cmd> From the Left-Hand Navigation Menu, Select "Privacy Restrictions"
+        <cmd> From the Left-Hand Navigation Menu, Select "Privacy Restrictions" </cmd>
       </step>
       <step>
         <cmd> Restricting Fields and Clearing Restrictions </cmd> 
@@ -30,7 +31,7 @@
             <cmd> Select "Restrict" Under the Directory Field You Would Like To Restrict Access To A Certain Field </cmd>
           </substep>
           <substep> 
-            <cmd> Select "Clear" If You Wish To Release The Restriction For That Field <cmd/> 
+            <cmd> Select "Clear" If You Wish To Release The Restriction For That Field </cmd> 
           </substep> 
         </substeps> 
       </step> 
@@ -39,16 +40,14 @@
         <substeps id="change-privacy-restrictions-fullblockandgrantingexceptions-substeps"> 
           <substep> 
             <cmd> To Grant Exceptions, Click the Full Privacy Block Field, Check the Restricted Box, and Select Desired Exceptions </cmd>
-              <note> 
-                <p>
-                Select a “full privacy” block to prevent us from sharing your information with anyone, including employers. A full privacy block also prevents your inclusion in graduation and Dean's List publications.
-                </P>
-              </note>
+              <info>
+              Select a “full privacy” block to prevent us from sharing your information with anyone, including employers. A full privacy block also prevents your inclusion in graduation and Dean's List publications.
+              </info>
           </substep>
         </substeps>
       </step> 
       <step> 
-        <cmd> click the green "Save" button to save your changes
+        <cmd> click the green "Save" button to save your changes </cmd>
       </step> 
     </steps>
   </taskbody>
@@ -58,7 +57,3 @@
 
 
       
-
-
-
-

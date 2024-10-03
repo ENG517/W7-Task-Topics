@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="adding-address">
   <!-- Enter task topic content inside the main task element -->
-    <title> Adding an Address on Mypack Portal </tile> 
+    <title> Adding an Address on Mypack Portal </title> 
       <shortdesc> How to Add an Address on Your Mypack Account </shortdesc>
       <taskbody>
         <prereq> You Must Have a Mypack Portal Account to Access </prereq>
@@ -14,16 +14,14 @@
               <cmd> Select the "Personal Information" tile </cmd> 
             </step> 
             <step> 
-              <cmd> Add your address under the desired category </cmd> 
-                <note> 
-                  <p>
-                  If no address is defined, select the "Add" button under the desired category
-                  </p> 
-                </note>
+              <cmd> Add your address under the desired category </cmd>  
+                <info>
+                If no address is defined, select the "Add" button under the desired category
+                </info> 
             </step> 
             <step> 
               <cmd> Entering Your Address </cmd>
-                <substeps=adding-address-substeps>
+                <substeps id= "adding-address-substeps">
                   <substep>
                     <cmd> select the "Copy From" button to copy the address from address that is already on record </cmd> 
                   </substep> 
@@ -49,4 +47,3 @@
 
         
       
-
