@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_update_residency_status">
+  <!-- Enter task topic content inside the main task element -->
+  <title>Update Your Residency Status</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Log in to <b>MyPack Portal</b> using your Unity account credentials.</cmd>
+      </step>
+      <step>
+        <cmd>Select the <b>Student Homepage</b>.</cmd>
+      </step>
+      <step>
+        <cmd>Click on the <b>Personal Information</b> tile.</cmd>
+      </step>
+      <step>
+        <cmd>Scroll down to the <b>Residency</b> section and update your status if necessary.</cmd>
+      </step>
+      <step>
+        <cmd>Click <b>Save</b> to update your residency information.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
