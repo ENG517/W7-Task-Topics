@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_setup_text_email_notifications">
+  <!-- Enter task topic content inside the main task element -->
+  <title>Set Up Text and Email Notifications</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Log in to <b>MyPack Portal</b> using your Unity account credentials.</cmd>
+      </step>
+      <step>
+        <cmd>Select the <b>Student Homepage</b>.</cmd>
+      </step>
+      <step>
+        <cmd>Click on the <b>Personal Information</b> tile and select <b>Text/Email Notification Setup</b>.</cmd>
+      </step>
+      <step>
+        <cmd>Choose your notification preferences and confirm your email and phone number.</cmd>
+      </step>
+      <step>
+        <cmd>Click <b>Save</b> to apply your notification settings.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

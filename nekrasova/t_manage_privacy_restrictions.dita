@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_manage_privacy_restrictions">
+  <!-- Enter task topic content inside the main task element -->
+  <title>Manage Your Privacy Restrictions</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Log in to <b>MyPack Portal</b> using your Unity account credentials.</cmd>
+      </step>
+      <step>
+        <cmd>Select the <b>Student Homepage</b>.</cmd>
+      </step>
+      <step>
+        <cmd>Click on the <b>Personal Information</b> tile and choose <b>Privacy Restrictions</b>.</cmd>
+      </step>
+      <step>
+        <cmd>Select the information fields you want to restrict.</cmd>
+      </step>
+      <step>
+        <cmd>Click <b>Restrict</b> or <b>Clear</b> to set your preferences.</cmd>
+      </step>
+      <step>
+        <cmd>Click <b>Save</b> to apply your changes.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

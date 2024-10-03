@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_view_personal_information">
+  <!-- Enter task topic content inside the main task element -->
+  <title>View Your Personal Information</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Log in to <b>MyPack Portal</b> using your Unity account credentials.</cmd>
+      </step>
+      <step>
+        <cmd>Select the <b>Student Homepage</b>.</cmd>
+      </step>
+      <step>
+        <cmd>Click on the <b>Personal Information</b> tile.</cmd>
+      </step>
+      <step>
+        <cmd>Review your personal details, including:</cmd>
+        <substeps>
+          <step><cmd>Personal Details (Student ID number, Name, Preferred Name)</cmd></step>
+          <step><cmd>Contact Details (Email addresses, phone numbers)</cmd></step>
+          <step><cmd>Addresses</cmd></step>
+          <step><cmd>Emergency Contacts</cmd></step>
+          <step><cmd>Text/Email Notification Setup</cmd></step>
+        </substeps>
+      </step>
+    </steps>
+  </taskbody>
+</task>
