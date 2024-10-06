@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-view-personal-info">
+  <title>View or Change Personal Information</title>
+  <shortdesc>Follow this procedure to view or change your personal information using the MyPack Portal.</shortdesc>
+  <context>
+    <p>Your personal information includes details such as your Student ID, contact information, addresses, and emergency contacts. It is important to keep this information up-to-date for academic and financial purposes.</p>
+  </context>
+  <steps>
+    <step>
+      <cmd>Log in to MyPack Portal and go to the Student Homepage.</cmd>
+    </step>
+    <step>
+      <cmd>Select the Personal Information tile.</cmd>
+    </step>
+    <step>
+      <cmd>From the list, choose the section you wish to update, such as Contact Details or Addresses.</cmd>
+    </step>
+    <step>
+      <cmd>Make the necessary changes, then click Save.</cmd>
+    </step>
+  </steps>
+</task>
