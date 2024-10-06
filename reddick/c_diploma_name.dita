@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="diploma-name">
+  <title>appearence of name on diploma</title>
+  <shortdesc>nc state university allows all students the option to select a “diploma name” in mypack portal to be printed on their official diploma or certificate received after graduation.</shortdesc>
+  <conbody>
+    <section>
+      <title>options for displayed name on diploma</title>
+      <p>
+         available diploma name options include:
+      </p>
+        <ul>
+          <li>either first name or initial</li>
+          <li>shortened or alternate form for the first name</li>
+          <li>preferred first name</li>
+          <li>exclusion of the legal first name when the middle name is used as a primary name</li>
+          <li>exclusion or initial of middle name</li>
+          <li>inclusion of former or maiden name</li>
+          <li>inclusion of proper capitalization and accentuation of name</li>
+          <li>inclusion of maternal surnames as culturally appropriate</li>
+        </ul>
+      <note><b>without a change request, the student name listed on a diploma or certificate will match the primary or legal name on file.</b></note>
+    </section>
+    <section>
+      <title>additional notes regarding name on diploma</title>
+      <p>
+        neither titles nor degrees previously earned will be included as part of a graduate's name on a diploma.
+      </p>
+      <p>
+        if electing to use a preferred name on your diploma, this information should match the preferred name listed in mypack portal.
+      </p>
+      <p>
+        if you decide to change your diploma name back to your primary name after graduation, please note that you will be required to request and pay for a replacement diploma. primary name changes are only permitted in cases of legal name changes.
+      </p>
+      <p>
+        all requested changes will be reviewed for input accuracy and to ensure appropriateness of the requested change. nc state university reserves the right to reject a diploma name that is used inappropriately or in an attempt to avoid legal obligation, misrepresent the individual, harass, threaten or are otherwise objectionable.
+      </p>
+    </section>
+  </conbody>
+</concept>
