@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="c_understanding_ferpa_privacy_settings" xmlns="http://dita.oasis-open.org/architecture/2005/">
+  <title>Understanding FERPA Privacy Settings</title>
+  <shortdesc>FERPA allows students to restrict access to certain information by adjusting their privacy settings in MyPack Portal.</shortdesc>
+
+  <conbody>
+    <p>FERPA (Family Educational Rights and Privacy Act) provides students the right to control how their information is shared. In MyPack Portal, students can manage their privacy settings to restrict access to personal and academic data.</p>
+    
+    <p>The available privacy settings include:</p>
+    <ul>
+      <li>Directory Information Restriction: Prevents sharing of personal data, such as email and enrollment status</li>
+      <li>Full Privacy Block: Blocks all sharing of student information, including for publications like graduation lists</li>
+    </ul>
+    
+    <p>Students can select specific fields to restrict or opt for a full privacy block, depending on their preferences.</p>
+  </conbody>
+  
+</concept>
