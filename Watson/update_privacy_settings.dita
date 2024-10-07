@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-update-privacy-settings">
+<title> Restrict Information in MyPack Portal</title>
+<shortdesc>Follow these steps to restrict your directory information in MyPack Portal under FERPA regulations.</shortdesc>  
+
+<steps>
+<step>
+<cmd>Log in to MyPack Portal and go to the Student Homepage.</cmd>
+</step>
+<step>
+<cmd>Select the "Personal Information" tile.</cmd>   
+</step>
+<step>
+<cmd>From the left-hand menu, select "Privacy Restrictions".</cmd>   
+</step>
+<step>
+<cmd>Select the "Restrict" button for any info you want to restrict OR select the "Clear" button to remove a restriction.</cmd>
+</step>
+<step>
+<cmd>If you want to enact a full privacy block, select "Full Privacy Block"</cmd>
+</step>
+<step>
+<cmd> Click the "Save" button to save your changes.</cmd>
+</step>
+<info>
+<note>
+<p>Under FERPA, students have the right to restrict access to their directory information, including email, enrollment status, major, and more.</p>
+</note>
+</info>
+</steps>
+
