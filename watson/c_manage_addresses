@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="c_managing_addresses_mypack" xmlns="http://dita.oasis-open.org/architecture/2005/">
+  <title>Managing Addresses in MyPack Portal</title>
+  <shortdesc>Students can manage various addresses, such as diploma or home addresses, through the MyPack Portal.</shortdesc>
+
+  <conbody>
+    <p>The MyPack Portal allows students to manage different types of addresses, which are essential for official communication from NC State University.</p>
+    
+    <p>These addresses include:</p>
+    <ul>
+      <li>Diploma Address: Used for sending diplomas after graduation</li>
+      <li>Home Address: The student's permanent residence</li>
+      <li>Mailing Address: Where any university correspondence will be sent</li>
+    </ul>
+    
+    <p>It is important to keep these addresses up-to-date to ensure timely receipt of important information and materials.</p>
+  </conbody>
+
+</concept>
