@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="c_ferpa_info" xmlns="http://dita.oasis-open.org/architecture/2005/">
+  <title>Directory Information under FERPA</title>
+  <shortdesc>Directory information is defined under the Family Educational Rights and Privacy Act (FERPA), allowing certain student information to be shared without explicit consent.</shortdesc>
+
+  <conbody>
+    <p>The Family Educational Rights and Privacy Act (FERPA) protects the privacy of student education records. However, directory information may be shared without explicit consent unless a student opts to restrict access.</p>
+    
+    <p>Directory information typically includes:</p>
+    <ul>
+      <li>Preferred email address</li>
+      <li>Enrollment status (full-time or part-time)</li>
+      <li>Major field of study</li>
+      <li>Dates of attendance</li>
+      <li>Degrees and awards received</li>
+    </ul>
+    
+    <p>Students have the right to restrict their directory information by updating their privacy settings in the MyPack Portal.</p>
+  </conbody>
+  
+</concept>
