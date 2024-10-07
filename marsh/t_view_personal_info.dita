@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <<<<<<< HEAD
+<<<<<<< HEAD
 <task id="viewing_personal_info">
   <!-- Enter task topic content inside the main task element -->
+=======
+<task id="viewing-personal-info">
+>>>>>>> f4ec422a65fba7039ac4f67b3328def6fdd65a71
 =======
 <task id="viewing-personal-info">
 >>>>>>> f4ec422a65fba7039ac4f67b3328def6fdd65a71
