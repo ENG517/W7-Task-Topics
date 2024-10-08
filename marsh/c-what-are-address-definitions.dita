@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="address">
+  <title>Adress Definitions</title>
+  <shortdesc>There are various adresses that NC State uses for students. The addresses are defined in this concept.</shortdesc>
+  <conbody>
+   <section>
+    <title>definitions</title>
+       <dl>
+        <dlentry>
+         <dt>Home Address</dt>
+         <dd>This address is used for mailing purposes and should describe the location where you would like to receive your mail. (If you use a PO Box, you may enter that address here.)</dd>
+        </dlentry>
+        <dlentry>
+         <dt>Permanent Address</dt>
+         <dd>This address persists beyond the student’s attendance at the University. This may be a parent’s address or your permanent address. </dd>
+         </dlentry>
+         <dlentry>
+         <dt>Local Address</dt>
+         <dd>This address should be the student’s physical living location while attending NC State and where you can be reached in an emergency. Effective Fall 2020, every term, students will be notified via MyPack Portal to verify or update their Local Address on record in order for the university to maintain the current physical location of all students. Local Addresses are not considered directory information and will not be shared with unauthorized third parties. </dd>
+         </dlentry>
+      </dl>
+   </section>
+  </conbody>
+</concept>
