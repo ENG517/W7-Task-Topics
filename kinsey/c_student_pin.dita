@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="student_services_pin">
+  <title>Student Personal Identification Number (PIN)</title>
+  <shortdesc>All students are required to create a four-digit Personal Identification Number (PIN) in MyPack Portal in order to access student financial and academic records via phone.</shortdesc>
+  <conbody>
+   <!-- What is a Student PIN? -->
+    <section>
+      <title>What is a Student PIN?</title>
+      <p>A Student Personal Identification Number (PIN) is a new additional security measure that will allow some university offices to ensure compliance with the federal Family Education Rights and Privacy Act, or FERPA.</p>
+      <p>When helping students over the phone, this additional step will allow student services representatives and administrative officials to verify the identity of the caller by asking for the self-identified PIN that only the student should know.</p>
+    </section>
+   <!-- When Will You be Asked For Your PIN? -->
+    <section>
+      <title>When Will You be Asked For Your PIN?</title>
+      <p>At this point, only the following university offices will ask students for their PINs when asked to discuss the student’s records ovcr the phone:</p>
+      <ul>
+        <li>Student Services Center</li>
+        <li>Cashier's Office</li>
+        <li>Registration and Records</li>
+        <li>Office of Scholarships and Financial Aid</li>
+      </ul>
+      <p>Students will be asked to provide their PIN when requesting access to FERPA-protected information.</p>
+    </section>
+   <!--Effective Date -->
+    <section>
+      <title>Effective Date</title>
+      <p>The new Student PIN verification will be available to students in MyPack Portal beginning in March 2021. However, students will not be required to input a Student PIN until the Fall 2021 semester.</p>
+    </section>
+   </conbody>
+</concept>

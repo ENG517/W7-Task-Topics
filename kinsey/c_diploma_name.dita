@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="diploma_name">
+  <title>Diploma Name</title>
+  <shortdesc>NC State University recognizes that members of its community often use names that are different from those appearing on legal documentation.
+
+NC State University allows all students the option to select a “Diploma Name” in MyPack Portal to be printed on their official diploma or certificate received after graduation. This name will also be used in official university commencement materials, including the digital program.</shortdesc>
+  <conbody>
+   <!--Diplomas-->
+    <section>
+      <title>Diplomas</title>
+      <p>Without a change request, the student name listed on a diploma or certificate will match the primary or legal name on file (first name, middle name, last name). Students desiring a preferred name or alternate version of their legal name to be printed on their diploma should use the Diploma Name field in MyPack Portal by all communicated deadlines.
+        Available diploma name options include:</p>
+      <ul>
+          <li>Either first name or initial</li>
+          <li>Shortened or alternate form for the first name</li>
+          <li>Preferred first name</li>
+          <li>Exclusion of the legal first name when the middle name is used as a primary name</li>
+          <li>Exclusion or initial of middle name</li>
+          <li>Inclusion of former or maiden name</li>
+          <li>Inclusion of proper capitalization and accentuation of name</li>       
+          <li>Inclusion of maternal surnames as culturally appropriate</li>
+      </ul>
+      <p>Neither titles nor degrees previously earned will be included as part of a graduate’s name on a diploma.</p>
+
+      <p>All requested changes will be reviewed for input accuracy and to ensure appropriateness of the requested change. NC State University reserves the right to reject a Diploma Name that is used inappropriately or in an attempt to avoid legal obligation, misrepresent the individual, harass, threaten or are otherwise objectionable. In these cases, the student’s legal name will be printed.</p>
+      
+      <p>If electing to use a preferred name on your diploma, this information should match the preferred name listed in MyPack Portal.</p>
+      
+      <p>If you decide to change your diploma name back to your primary name after graduation, please note that you will be required to request and pay for a replacement diploma.  Primary name changes are only permitted in cases of legal name changes.</p>
+    </section>
+   </conbody>
+</concept>

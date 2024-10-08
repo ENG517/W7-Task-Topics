@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="enter-unique-id-here">
+<concept id="c_address_definition">
     <title>Address Definitions</title>
-        <shortdesc>There are several student addresses that are important to the university because there are different types of communications that are sent. </shortdesc>
+    <shortdesc>There are several student addresses that are important to the university because there are different types of communications that are sent. </shortdesc>
         <conbody>
             <section>
                 <ul>
@@ -13,11 +13,11 @@
                     <li>Diploma Address: The address to which a student's diploma should be mailed once the student graduates. This address is not required. If a Diploma Address is not provided, the diploma will be mailed to the student's Home Address on record.</li>
                     <li>SEVIS Local Address**: The student's local address while you are at NC State, which is sent to SEVIS. This address should match your Local Address. Please visit the Office of International Services for information on what to do if you need to update this address.</li>
                     <li>SEVIS Foreign Address**: The student's home foreign address. This is automatically populated for all international students based on the information provided in during the admission process. Please visit the Office of International Services for information on what to do if you need to update this address.</li>
-                </ul>            
+                </ul>
             </section>
             <section>
-                <note>* = required for all students</note>
-                <note>** = required for international students</note>
+                <note>* = required for all students.</note>
+                <note>** = required for international students.</note>
             </section>
         </conbody>
 </concept>
