@@ -5,12 +5,12 @@
   <conbody>
     <p>NC State maintains several types of student addresses to ensure accurate records. These include:</p>
     <ul>
-      <li><b>Home address:</b> Used for mailing purposes. This can include a PO Box if needed.</li>
-      <li><b>Permanent address:</b> The address that persists beyond a student's attendance at NC State. Often, this is a parent or guardian's address.</li>
-      <li><b>Local address:</b> The student's physical living location while attending NC State. It is used for emergency contact and verification purposes and must be updated regularly.</li>
-      <li><b>Campus housing address:</b> For students living in University-managed housing. This address is automatically populated and cannot be edited by students.</li>
-      <li><b>Diploma address:</b> The address where the student's diploma will be mailed after graduation.</li>
-      <li><b>SEVIS local and foreign addresses:</b> Required for international students, these addresses reflect the student's local and home foreign address as registered with SEVIS.</li>
+      <li><strong>Home address:</strong> Used for mailing purposes. This can include a PO Box if needed.</li>
+      <li><strong>Permanent address:</strong> The address that persists beyond a student's attendance at NC State. Often, this is a parent or guardian's address.</li>
+      <li><strong>Local address:</b> The student's physical living location while attending NC State. It is used for emergency contact and verification purposes and must be updated regularly.</li>
+      <li><strong>Campus housing address:</strong> For students living in University-managed housing. This address is automatically populated and cannot be edited by students.</li>
+      <li><strong>Diploma address:</strong> The address where the student's diploma will be mailed after graduation.</li>
+      <li><strong>SEVIS local and foreign addresses:</strong> Required for international students, these addresses reflect the student's local and home foreign address as registered with SEVIS.</li>
     </ul>
   </conbody>
 </concept>
