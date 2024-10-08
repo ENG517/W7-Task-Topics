@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="What is Personal Information">
-<concept>Personal Information
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="personal_information">
   <title>View Your Personal Infromation</title>
   <shortdesc>Personal information includes various details that identify a student</shortdesc>
   <conbody>
-    <ul>Personal Details (Student ID number, Name and Preferred Name)</ul>
-    <ul>Contact Details (Email addresses, phone numbers)</ul>
-    <ul>Addresses</ul>
-    <ul>Emergency Contacts</ul>
-    <ul>Text/Email Notification Setup</ul>
-    <ul>Ethnicity</ul>
-    <ul>Privacy Restrictions</ul>
-    <ul>Residency</ul>
-    <ul>Veterans Information (Military Affiliation, Request Benefits Certification, Review Benefits Requests)</ul>
-    <ul>OIS Compliance Verification (for International students only)</ul>
-    <ul>Provide Social Security Number</ul>
-    <ul>Parent and Guardian Access</ul>
-</conbody>
+    <section>
+      <ul>
+       <li>Personal Details (Student ID number, Name and Preferred Name)</li>
+      <li>Contact Details (Email addresses, phone numbers)</li>
+      <li>Addresses</li>
+      <li>Emergency Contacts</li>
+      <li>Text/Email Notification Setup</li>
+      <li>Ethnicity</li>
+      <li>Privacy Restrictions</li>
+      <li>Residency</li>
+      <li>Veterans Information (Military Affiliation, Request Benefits Certification, Review Benefits Requests)</li>
+      <li>OIS Compliance Verification (for International students only)</li>
+      <li>Provide Social Security Number</li>
+      <li>Parent and Guardian Access</li>
+    </ul>
+    </section>
+  </conbody>
 </concept>
-</task>
