@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="parent-guardian-access">
+  <title>Parent/Guardian Access Options</title>
+  <shortdesc>Your academic and financial records are always kept confidential, unless you give explicit permission for them to be released. Students have the topion to grant parental/guardian access to the following:</shortdesc>
+  <conbody>
+    <section><title>Student Accounts / Billing / Payment</title>
+      <p>Grants access to view and print current and past bills, view current changes and the ability to pay online.</p>
+    </section>
+    <section><title>Tax Information</title>
+      <p>Grants access to view and print the 1098T information. You must grant Student Account access in order to allow access to tax information.</p>
+    </section>
+    <section><title>Academic Information</title>
+      <p>Grants access to view Class Schedules, Grades, Transcript and Transfer Credit information.</p>
+    </section>
+    <section><title>Directory Information</title>
+      <p>Grants access to view student directory information, such as local address and phone number. Even if a FERPA block has been set up and your information is not being shown in the ‘FIND PEOPLE’ directory, selecting this option will allow this parent/guardian to view this information.</p>
+    </section>
+    <section><title>Financial Aid</title>
+      <p>Grants access to view Financial Aid information. This includes information about awards, loans, scholarships, fellowships and work study jobs that you have received or have been offered. If you have applied for Financial Aid, it includes information about the status of your application.</p>
+    </section>
+  </conbody>
+</concept>
