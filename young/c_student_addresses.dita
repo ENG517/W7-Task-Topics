@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="student_addresses"></concept>
+    <title>student_addresses<title>
+    <shortdesc>NC State University collects student address information through the student admission process<shortdesc>
+    <conbody>
+        <dl>
+            <dlentry>
+                <dt>Home Address<dt>
+                <dd>This address is used for mailing purposes and should describe the location where you would like to receive your mail<dd>
+            <dlentry>
+                <dt>Permanent Address<dt>
+                <dd>This address persists beyond the student’s attendance at the University. This may be a parent’s address or your permanent address.<dd>
+            <dlentry>
+                <dt>Local Address<dt>
+                <dd>This address should be the student’s physical living location while attending NC State and where you can be reached in an emergency<dd>
+            <dlentry>
+                <dt>Campus Housing Address<dt>
+                <dd>The student’s address in a University-managed residence hall or apartment<dd>
+            <dlentry>
+                <dt>Diploma Address<dt>
+                <dd>The address to which a student’s diploma should be mailed once the student graduates<dd>
+            <dlentry>
+                <dt>SEVIS Local Address<dt>
+                <dd>The student’s local address while you are at NC State, which is sent to SEVIS<dd>
+            <dlentry>
+                <dt>SEVIS Foreign Address<dt>
+                <dd>The student’s home foreign address<dd>
+        <dl>
+    <conbody>
+<concept>
