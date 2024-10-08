@@ -5,19 +5,19 @@
         <shortdesc>There are several student addresses that are important to the university because there are different types of communications that are sent. </shortdesc>
         <conbody>
             <section>
-                <li>Home Address*: This address is used for mailing purposes and should describe the location where you would like to receive your mail. (If you use a PO box, you may enter that address here.)</li>
-                <li>Permanent Address*: This address persists beyond the student's attendance at the University. This may be a parent's address or your permanent address.</li>
-                <li>Local Address*: This address should be the student's physical living location while attending NC State and where you can be reached in an emergency. Effective Fall 2020, every term, students will be notifed via MyPack Portal to verify or update their Local Address on record in order for the university to maintain the current physical location of all students. Local addresses are not considered directory information and will not be shared with unauthorized third parties.</li>
-                <li>Campus Housing Address: The student's address in a University-managed residence hall or apartment; this is automatically populated if the student lives on campus, and it cannot be edited by the student.</li>
-                <li>Diploma Address: The address to which a student's diploma should be mailed once the student graduates. This address is not required. If a Diploma Address is not provided, the diploma will be mailed to the student's Home Address on record.</li>
-                <li>SEVIS Local Address**: The student's local address while you are at NC State, which is sent to SEVIS. This address should match your Local Address. Please visit the Office of International Services for information on what to do if you need to update this address.</li>
-                <li>SEVIS Foreign Address**: The student's home foreign address. This is automatically populated for all international students based on the information provided in during the admission process. Please visit the Office of International Services for information on what to do if you need to update this address.</li>
+                <ul>
+                    <li>Home Address*: This address is used for mailing purposes and should describe the location where you would like to receive your mail. (If you use a PO box, you may enter that address here.)</li>
+                    <li>Permanent Address*: This address persists beyond the student's attendance at the University. This may be a parent's address or your permanent address.</li>
+                    <li>Local Address*: This address should be the student's physical living location while attending NC State and where you can be reached in an emergency. Effective Fall 2020, every term, students will be notifed via MyPack Portal to verify or update their Local Address on record in order for the university to maintain the current physical location of all students. Local addresses are not considered directory information and will not be shared with unauthorized third parties.</li>
+                    <li>Campus Housing Address: The student's address in a University-managed residence hall or apartment; this is automatically populated if the student lives on campus, and it cannot be edited by the student.</li>
+                    <li>Diploma Address: The address to which a student's diploma should be mailed once the student graduates. This address is not required. If a Diploma Address is not provided, the diploma will be mailed to the student's Home Address on record.</li>
+                    <li>SEVIS Local Address**: The student's local address while you are at NC State, which is sent to SEVIS. This address should match your Local Address. Please visit the Office of International Services for information on what to do if you need to update this address.</li>
+                    <li>SEVIS Foreign Address**: The student's home foreign address. This is automatically populated for all international students based on the information provided in during the admission process. Please visit the Office of International Services for information on what to do if you need to update this address.</li>
+                </ul>            
             </section>
             <section>
-                <note>
-                    <li>* = required for all students</li>
-                    <li>** = required for international students</li>
-                </note>
+                <note>* = required for all students</note>
+                <note>** = required for international students</note>
             </section>
         </conbody>
 </concept>
