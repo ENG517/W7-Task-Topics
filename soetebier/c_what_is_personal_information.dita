@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_personal_information">
+  <title>Personal Information</title>
+  <shortdesc>Personal information encompasses the indentifying, academic and financial information that NC State collects from each student.</shortdesc>
+  <conbody>
+    <p>On the Personal Informaion tile, you will be able to view and update all of your personal information, inlcuding:</p>
+    <section>
+      <title>Identifying Information</title>
+      <ul>
+        <li>Personal Details
+          <ul>
+            <li>Student ID Numbers</li>
+            <li>Name</li>
+            <li>Preferred Name</li>
+          </ul>
+        </li>
+        <li>Social Security Numbers</li>
+        <li>Ethnicity Information</li>
+      </ul>
+    </section>
+    <section>
+      <title>Contact and Address Information</title>
+      <ul>
+        <li>Personal Contact Details
+          <ul>
+            <li>Email Address(es)</li>
+            <li>Phone Number(s)</li>
+          </ul>
+        </li>
+        <li>Energency Contacts</li>
+        <li>Address(es)</li>
+        <li>Residency Status</li>
+      </ul>
+    </section>
+    <section>
+      <title>Privacy and Notification Information</title>
+      <ul>
+        <li>OIS Complicance Verification</li>
+        <li>Text/Email Notification Setup</li>
+        <li>Parent and Guardian Access</li>
+      </ul>
+    </section>
+    <section>
+      <title>Veterans Information</title>
+      <ul>
+        <li>Millitary Affiliation</li>
+        <li>Request Benefits Certification</li>
+        <li>Review Benefits Requests</li>
+      </ul>
+    </section>
+     
+  </conbody>
+</concept>

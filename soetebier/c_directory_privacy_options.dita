@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="directory_privacy_options">
+  <title>NC State Directory and Privacy Options</title>
+  <shortdesc>The NC State Directory houses contact information for all students and employees.</shortdesc>
+  <conbody>
+    <section>
+      <title>Who can view my information?</title>
+      <p>The directory is available to faculty, staff, students, parents, and alumni. Faculty and staff information is open to the public, but student information is only open to those with Unity ID credentials.</p>
+    </section>
+    <section>
+      <title>Levels of Restriction</title>
+      <p> Under the Family Educational Rights and Privacy Act (FERPA), you have the right to restrict all or part of your directory information, which includes your preferred email, your enrollment status (full-time/part-time), major field of study, and more. There are three levels of restriction that you can place on your directory information.</p>
+      <dl>
+        <dlentry>
+          <dt>Unrestricted</dt>
+          <dd>This is the default mode for all information. Any person with access to the NC State Directory can view your personal information.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Restricted</dt>
+          <dd>Restricted information is blocked from students, but is still available for adminstrative use.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Full Privacy Block</dt>
+          <dd>Full privacy blocks prevent prevent us the sharing of your information with anyone, including employers. A full privacy block also prevents your inclusion in graduation and Dean’s List publications.</dd>
+        </dlentry>
+      </dl>
+    </section>
+  </conbody>
+
+</concept>
