@@ -2,6 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="enter-unique-id-here">
     <title>Address Definitions</title>
+        <shortdesc>There are several student addresses that are important to the university because there are different types of communications that are sent. </shortdesc>
         <conbody>
             <section>
                 <li>Home Address*: This address is used for mailing purposes and should describe the location where you would like to receive your mail. (If you use a PO box, you may enter that address here.)</li>
