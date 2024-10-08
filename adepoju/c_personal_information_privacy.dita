@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="personal_information_privacy"></concept>
+<title>Understanding Personal Information and Privacy Settings in MyPack Portal</title>
+    <shortdesc>Explore the structure and significance of managing personal, academic, and financial information through NC State's MyPack Portal.</shortdesc>
+    <conbody>
+        <p>NC State Unity account holders can access and manage their personal, academic, and financial information securely through the MyPack Portal. Maintaining this information securely is essential for safeguarding privacy.</p>
+        <section>
+            <title>Types of Personal Information Managed</title>
+            <p>Various categories of personal information are manageable within the MyPack Portal, each serving a crucial role:</p>
+            <ul>
+                <li><b>Personal Details</b>: Including student ID number, name, and preferred name, essential for identity verification and service personalization.</li>
+                <li><b>Contact Details</b>: Email addresses and phone numbers, vital for effective communication with the university and peers.</li>
+                <li><b>Privacy Restrictions</b>: Settings under the Family Educational Rights and Privacy Act (FERPA), enabling control over the visibility of information.</li>
+            </ul>
+        </section>
+        <section>
+            <title>Importance of Privacy and Security</title>
+            <p>Effective management of your information within MyPack Portal ensures protection of personal details and prevents unauthorized access, thereby enhancing security within the university environment.</p>
+        </section>
+    </conbody>
+</concept>
