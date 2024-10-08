@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="zito-personal-information">
+  <title>Personal Information</title>
+  <shortdesc>You can use your MyPack Portal to access your personal, academic and financial information.</shortdesc>
+  <conbody>
+    <section>
+      <title>View Your Personal Information</title>
+      <p>On the Personal Information tile, you will be able to view and update all of your personal information including:
+        <ul>
+          <li>Personal Details (Student ID number, Name and Preferred Names)</li>
+          <li>Contact Details (Email addresses, phone numbers)</li>
+          <li>Addresses</li>
+          <li>Emergency Contacts</li>
+          <li>Text/Email Notification Setup</li>
+          <li>Ethnicity</li>
+          <li>Privacy Restrictions</li>
+          <li>Residency</li>
+          <li>Veterans Information (Military Affiliation, Request Benefits Certification, Review Benefits Requests)</li>
+          <li>OIS Compliance Verification (for International students only)</li>
+          <li>Provide Social Security Number</li>
+          <li>Parent &amp; Guardian Access</li>
+        </ul>
+      </p>
+    </section>
+  </conbody>
+</concept>
