@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="parent_and_guardian_access">
+  <title>parents and guardians access to student information</title>
+  <shortdesc>your academic and financial records are always kept confidential, unless you give explicit permission for them to be released</shortdesc>
+  <conbody>
+    <section>
+      <title>accesibility to information for parents and guardians</title>
+      <p>
+        your academic and financial records are always kept confidential, unless you give explicit permission for them to be released
+      </p>
+    </section>
+    <section>
+      <title>types of information that students can make accessible to parents or guardians</title>
+      <p>
+        students have the option to grant parental/guardian access to the following types of information:
+      </p>
+      <dl>
+        <dlentry>
+          <dt>student accounts/billing/payments</dt>
+          <dd>grants access to view and print current and past bills, view current changes and the ability to pay online.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>tax information</dt>
+          <dd>grants access to view and print the 1098t information. You must grant student account access in order to allow access to tax information.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>academic information</dt>
+          <dd>grants access to view class schedules, grades, transcript and transfer credit information.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>directory information</dt>
+          <dd>grants access to view student directory information, such as local address and phone number. Even if a FERPA block has been set up and your information is not being shown in the 'FIND PEOPLE' directory, selecting this option will allow this parent/guardian to view this information.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>financial aid</dt>
+          <dd>grants access to view financial Aid information. this includes information about awards, loans, scholarships, fellowships and work study jobs that you have received or have been offered. If you have applied for Financial Aid, it includes information about the status of your application.</dd>
+        </dlentry>
+      </dl>
+    </section>
+  </conbody>
+</concept>

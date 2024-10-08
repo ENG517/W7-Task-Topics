@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_update_address_info">
+  <title>Add or Update an Address in MyPack Portal</title>
+  <shortdesc>Follow these steps to add or update an address in MyPack Portal.</shortdesc>
+
+  <steps>
+    <step>
+      <cmd>Log into the MyPack Portal.</cmd>
+    </step>
+
+    <step>
+      <cmd>Select the "Student Homepage" tile.</cmd>
+    </step>
+
+    <step>
+      <cmd>Select the "Personal Information" tile.</cmd>
+    </step>
+
+    <step>
+      <cmd>From the left-hand navigation menu, select "Addresses".</cmd>
+    </step>
+
+    <step>
+      <cmd>Under your preferred header, select the "Add Address" button.</cmd>
+    </step>
+
+    <step>
+      <cmd>Select the "Copy From" button to copy an address from a record, or manually enter an address in the given fields.</cmd>
+    </step>
+
+    <step>
+      <cmd>Select the green "Save" button.</cmd>
+    </step>
+  </steps>
+</task>
+
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_update_emergency_contacts">
+  <!-- Enter task topic content inside the main task element -->
+  <title>Update Emergency Contacts</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Log in to <b>MyPack Portal</b> using your Unity account credentials.</cmd>
+      </step>
+      <step>
+        <cmd>Select the <b>Student Homepage</b>.</cmd>
+      </step>
+      <step>
+        <cmd>Click on the <b>Personal Information</b> tile and choose <b>Emergency Contacts</b>.</cmd>
+      </step>
+      <step>
+        <cmd>Select an existing contact to edit or click <b>Add Contact</b> to create a new one.</cmd>
+      </step>
+      <step>
+        <cmd>Enter or update the contact details.</cmd>
+      </step>
+      <step>
+        <cmd>Click <b>Save</b> to store your changes.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
