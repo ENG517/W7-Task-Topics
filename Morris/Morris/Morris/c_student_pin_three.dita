@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="student_services_studnet_pin">
+
+<title>Student Personal Identification Number PIN </title>
+<shortdesc>All NC State students are issued a four-digit Personal Identification Number (PIN). This number provides access to student financial and academic records when requesting information over the phone. The number serves as dditional security measure that will allow certain central university administrative offices to ensure compliance with the federal Family Education Rights and Privacy Act (FERPA).</shortdesc>
+
+
+<conbody>
+  <!-- PIN Defined-->
+  <section>
+    <title>What is a Student PIN?</title>
+    <p>A student PIN is a four digit number provided to all NC State students to allow access to personal information.</p>
+
+    <p>When assisting students via telephone, this additional step will allow student services representatives and administrative officials to verify the identity of the caller by asking for the self-identified PIN that only the student should know.
+
+    </p>
+
+  </section>
+  <!-- When asked for PIN-->
+<section>
+    <title>When you will use your PIN</title>
+    <ul>
+        <li>Student Services Center</li>
+        <li>Cashier’s Office</li>
+        <li>Registration and Records</li>
+        <li>Office of Scholarships and Financial Aid</li>
+    </ul>
+  </section>
+</conbody>
+
+</concept>
+ 

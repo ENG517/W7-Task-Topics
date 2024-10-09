@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Parent_or_Gardian_access"></concept>
+<title>Student Services Parent or Guardian Access </title>
+<shortdesc>All NC State students'academic and financial records are always kept confidential, unless explicit permission is granted for them to be released.</shortdesc>
+
+
+<conbody>
+  <!-- Parent or Guardian Options-->
+  <section>
+    <title>Parent or Guardian Options</title>
+    <p>Student Accounts / Billing / Payment – Grants access to view and print current and past bills, view current changes and the ability to pay online.</p>
+
+    <p> Tax Information – Grants access to view and print the 1098T information. You must grant Student Account access in order to allow access to tax information.</p>
+    <p>Academic Information – Grants access to view Class Schedules, Grades, Transcript and Transfer Credit information.</p>
+    <p>Directory Information – Grants access to view student directory information, such as local address and phone number. Even if a FERPA block has been set up and your information is not being shown in the ‘FIND PEOPLE’ directory, selecting this option will allow this parent/guardian to view this information.</p>
+    <p>Financial Aid – Grants access to view Financial Aid information. This includes information about awards, loans, scholarships, fellowships and work study jobs that you have received or have been offered. If you have applied for Financial Aid, it includes information about the status of your application.
+    </p>
+  </section>
+
+
+</conbody>
+
+</concept>
