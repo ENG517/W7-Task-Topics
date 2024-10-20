@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="update-personal-info">
+  <!-- Enter task topic content inside the main task element -->
+<title>Viewing and Updating Personal Information</title>
+    <shortdesc>Access and modify your personal, academic, and financial details via MyPack Portal.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Log into MyPack Portal using your NC State Unity account.</cmd>
+            </step>
+            <step>
+                <cmd>Select the "Student Homepage."</cmd>
+            </step>
+            <step>
+                <cmd>Click on the "Personal Information" tile.</cmd>
+            </step>
+            <step>
+                <cmd>Within the Personal Information tile, select any category you wish to view or update, such as:</cmd>
+                <substeps>
+                    <step>
+                        <cmd>Personal Details (Student ID number, Name, Preferred Name)</cmd>
+                    </step>
+                    <step>
+                        <cmd>Contact Details (Email addresses, phone numbers)</cmd>
+                    </step>
+                    <step>
+                        <cmd>Addresses</cmd>
+                    </step>
+                    <step>
+                        <cmd>Emergency Contacts</cmd>
+                    </step>
+                    <step>
+                        <cmd>Text/Email Notification Setup</cmd>
+                    </step>
+                    <step>
+                        <cmd>Ethnicity</cmd>
+                    </step>
+                    <step>
+                        <cmd>Privacy Restrictions</cmd>
+                    </step>
+                    <step>
+                        <cmd>Residency</cmd>
+                    </step>
+                    <step>
+                        <cmd>Veterans Information</cmd>
+                    </step>
+                    <step>
+                        <cmd>OIS Compliance Verification (for International students only)</cmd>
+                    </step>
+                    <step>
+                        <cmd>Provide Social Security Number</cmd>
+                    </step>
+                    <step>
+                        <cmd>Parent & Guardian Access</cmd>
+                    </step>
+                    <step>
+                        <cmd>Directory Information Privacy Settings</cmd>
+                    </step>
+                </substeps>
+            </step>
+        </steps>
+        <result>After completing these steps, your personal information will be updated and saved as per your entries.</result>
+    </taskbody>
+</task>

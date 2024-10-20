@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="enter-unique-id-here">
+  <!-- Enter task topic content inside the main task element -->
+  <title>Prevent Sharing Your Information</title>
+    <taskbody>
+      <shortdesc>Prevent us from sharing your information with anyone, including employers.</shortdesc>
+      <steps>
+        <step>
+          <cmd>Select “full privacy” block.</cmd>
+          <info>A full privacy block also prevents your inclusion in graduation and Dean’s List publications.</info>
+        </step>
+      </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="personal_information">
+  <title>View Your Personal Infromation</title>
+  <shortdesc>Your personal information is an important part of your identity. The personal information used by an institution is impactful to your identity within the institution.</shortdesc>
+  <conbody>
+    <section>
+      <ul>
+       <li>Personal Details (Student ID number, Name and Preferred Name)</li>
+      <li>Contact Details (Email addresses, phone numbers)</li>
+      <li>Addresses</li>
+      <li>Emergency Contacts</li>
+      <li>Text/Email Notification Setup</li>
+      <li>Ethnicity</li>
+      <li>Privacy Restrictions</li>
+      <li>Residency</li>
+      <li>Veterans Information (Military Affiliation, Request Benefits Certification, Review Benefits Requests)</li>
+      <li>OIS Compliance Verification (for International students only)</li>
+      <li>Provide Social Security Number</li>
+      <li>Parent and Guardian Access</li>
+    </ul>
+    </section>
+  </conbody>
+</concept>

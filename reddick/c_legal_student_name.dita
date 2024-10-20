@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="legal_name">
+  <title>using a legal name</title>
+  <shortdesc>individuals are free to determine the preferred names by which they want to be known within the university community. however, the use of a legal full name is a necessary requirment on a number of documents the university issues for students.</shortdesc>
+  <conbody>
+    <section>
+      <title>documents that require a legal name</title>
+      <p>
+        the documents that currently require a legal name are:
+      </p>
+      <ul>
+        <li>legal documents and reports issued by the univeristy</li>
+        <li>student account statements</li>
+        <li>financial aid and student loan informaiton</li>
+        <li>transcripts and diplomas</li>
+        <li>enrollement verifications</li>
+        <li>student employment documents</li>
+        <li>staff employment documents and verifications</li>
+        <li>past payrolls, paychecks, and w2's for all employees</li>
+        <li>benefits enrollment</li>
+      </ul>
+      <note>
+        <p>
+          you can change your legal name on university records by completing and submitting the name change/marital status change request form to the department of registration and records. you will need to present official documentation that shows your legal name. <b>do not</b> submit this form or any official/legal documentation via email.
+        </p>
+      </note>
+    </section>
+  </conbody>
+</concept>

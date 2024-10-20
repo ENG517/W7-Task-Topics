@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="student_pin">
+  <title>Student Personal Identification Number (PIN)</title>
+  <shortdesc>Your student PIN can be used to access personal information from your phone.</shortdesc>
+  <conbody>
+    <section>
+      <title>What is a Student PIN?</title>
+      <p>A Student Personal Identification Number (PIN) is a new additional security measure that will allow certain central university administrative offices to ensure compliance with the federal Family Education Rights and Privacy Act (FERPA).
+
+When assisting students via telephone, this additional step will allow student services representatives and administrative officials to verify the identity of the caller by asking for the self-identified PIN that only the student should know.</p>
+    </section>
+    <section>
+      <title>When Will You be Asked For Your PIN</title>
+      <p>At this time, only the following university offices will ask students to provide their PINs when asked to discuss the student’s records by phone:</p>
+      <ul>
+        <li>Student Services Center</li>
+        <li>Cashier’s Office</li>
+        <li>Registration and Records</li>
+        <li>Office of Scholarships and Financial Aid</li>
+      </ul>
+      <p>Students will be asked to provide their PIN when requesting access to FERPA-protected information.</p>
+    </section>
+  </conbody>
+</concept>

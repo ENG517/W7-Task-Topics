@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_address">
+    </taskbody>
+        <steps>
+            <step>
+              <cmd>Select your Student Homepage<cmd>
+            <step>
+              <cmd>Select the ‘Personal Information’ tile<cmd>
+            <step>
+              <cmd>From the left-hand navigation menu, select ‘Addresses’<cmd>
+            <step>
+              <cmd>Under the appropriate header, e.g. ‘Diploma Address,’ if no address is defined, select the ‘Add Diploma Address’ button<cmd>
+            <step>
+              <cmd>You can either select the ‘Copy From’ button to copy the address from address that is already on record, or manually enter an address in the given fields<cmd>
+            <step>
+              <cmd>Select the green ‘Save’ button<cmd>
+    </taskbody>
+  </task>

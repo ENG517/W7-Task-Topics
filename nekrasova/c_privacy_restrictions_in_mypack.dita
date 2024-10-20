@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_privacy_restrictions_in_mypack">
+  <title>Privacy restrictions in MyPack portal</title>
+  <conbody>
+    <p>Students can control the release of their personal information by setting privacy restrictions in MyPack portal. This allows them to restrict access to fields such as their directory information, which includes their preferred email address, enrollment status, and more.</p>
+    <p>Students can select specific fields to restrict or choose a full privacy block to prevent all information from being shared. This block can affect certain publications like graduation and Dean's List announcements.</p>
+    <p>Privacy settings can be changed at any time through the MyPack Portal under the "Privacy Restrictions" option in the Personal Information tile.</p>
+  </conbody>
+</concept>

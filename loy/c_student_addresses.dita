@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="mypack-student-addresses">
+    <title>Student Addresses</title>
+    <shortdesc>NC State University collects student address information through the student admission process.</shortdesc>
+    <conbody>
+        <p>The university maintains several addresses for students in order to maintain accurate student records and information. Students are asked to regularly verify and update address information on record with the university through the MyPack Portal student information system.</p>
+    </conbody>
+</concept>

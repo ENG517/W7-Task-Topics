@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_view_personal_info">
+<title> How to View Personal Information in MyPack Portal </title>
+    <shortdesc> This procedure teaches users how to view or change their personal information in MyPack Portal. </shortdesc>
+    <taskbody>
+        <prereq> You must log into MyPack and therefore have access to the internet, your NCSU login credentials, and  your phone in case Duo-Authentication is required. </prereq>
+        <steps id= "steps_view_personal_info">
+            <step>
+                <cmd> Log into MyPack Portal </cmd>
+            </step>
+            <step>
+                <cmd> Go to your "Student Homepage" tile. </cmd>
+            </step>
+            <step>
+                <cmd> Click on your "Personal Information" tile. </cmd>
+            </step>
+            <step>
+                <cmd> You can now view and change your personal information. </cmd>
+                <info> Some personal information you can view and change include: </info>
+                <ul>
+                     <li> Personal details (student ID number, Legal Name, Preferred Name) </li>
+                     <li> Contact Details (Email addresses, phone numbers) </li>
+                     <li> Addresses  </li>
+                     <li> Emergency Contacts  </li>
+                     <li> Text/Email Notification Setup </li>
+                     <li> Ethnicity </li>
+                     <li> Privacy Restrictions </li>
+                     <li> Residency </li>
+                     <li> Veterans Information (Militatry Affiliation, Request Benefits Certification, Review Benefits Requests) </li>
+                     <li> OIS Compliance Verification (for International students only) </li>
+                     <li> Provide Social Security Number </li>
+                     <li> Parent and Guardian Access </li>
+                </ul>
+            </step>
+        </steps>
+    </taskbody>    
+</task>

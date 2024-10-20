@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding-address">
+  <!-- Enter task topic content inside the main task element -->
+    <title> Adding an Address on Mypack Portal </tile> 
+      <shortdesc> How to Add an Address on Your Mypack Account </shortdesc>
+      <taskbody>
+        <prereq> You Must Have a Mypack Portal Account to Access </prereq>
+          <steps id="adding-address-steps"> 
+            <step> 
+              <cmd> Select your student homepage </cmd> 
+            </step> 
+            <step> 
+              <cmd> Select the "Personal Information" tile </cmd> 
+            </step> 
+            <step> 
+              <cmd> Add your address under the desired category </cmd> 
+                <note> 
+                  <p>
+                  If no address is defined, select the "Add" button under the desired category
+                  </p> 
+                </note>
+            </step> 
+            <step> 
+              <cmd> Entering Your Address </cmd>
+                <substeps=adding-address-substeps>
+                  <substep>
+                    <cmd> select the "Copy From" button to copy the address from address that is already on record </cmd> 
+                  </substep> 
+                  <substep> 
+                    <cmd> Or, manually enter an address in the given fields if none is on record </cmd> 
+                  </substep> 
+                </substeps>
+            </step> 
+            <step> 
+              <cmd> Select the green "Save" button </cmd> 
+            </step> 
+          </steps> 
+      </taskbody> 
+  </task> 
+
+
+          
+            
+          
+        
+        
+
+
+        
+      
+

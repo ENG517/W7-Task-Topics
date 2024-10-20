@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_update_personal_info">
+  <title>Update Personal Information</title>
+  <shortdesc>This task explains how to update your personal info on NCSU's Student Services site.</shortdesc>
+
+  <context>
+    <p>You can update your personal information such as your name, contact number, and emergency contacts.</p>
+  </context>
+
+  <steps>
+    <step>  
+      <cmd>Select Personal Information from the Student Services menu.</cmd>
+    </step>
+    
+    <step>
+      <cmd>Click on Update Personal Information.</cmd>
+    </step>
+    
+    <step>
+      <cmd>Enter the updated information and click Save.</cmd>
+    </step>
+  </steps>
+  
+</task>

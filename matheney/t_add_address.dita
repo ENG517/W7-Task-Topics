@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="add_adress">
+<title>Add Student Address</title>
+<shortdesc>To add an address, log into your <uicontrol>MyPack Portal</uicontrol>
+	<taskbody>
+		<steps>
+			<step>
+				<cmd>Select your Student Homepage</cmd>
+			</step>
+			<step>
+				<cmd>Select the <uicontrol>Personal Information</uicontrol> tile</cmd>
+			</step>
+			<step>
+				<cmd>Select <uicontrol>Addresses</uicontrol> from the left-hand navigation menu</cmd>
+			</step>
+			<step>
+				<cmd>Select the appropriate header and select the <uicontrol>Add Address</uicontrol> button</cmd>
+				<stepxmp> For example, <uicontrol>Diploma Address</uicontrol>
+			</step>
+			<step>
+				<choices>
+					<choice>Select the <uicontrol>Copy From</uicontrol> button to copy the address that is already on record</choice>
+					<choice>Manually enter an address in the given fields<choice>
+				</choices>
+			</step>
+			<step>
+				<cmd>Select the green <uicontrol>Save</uicontrol> button</cmd>
+			</step>
+		</steps>
+	</taskbody>
+</task>
