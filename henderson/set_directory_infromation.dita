@@ -1,0 +1,53 @@
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_set_directory_privacy">
+    <title>Set Directory Information Privacy Settings</title>
+    <shortdesc>Restrict or release your directory information privacy settings in MyPack Portal.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Log in to MyPack Portal.</cmd>
+            </step>
+            <step>
+                <cmd>Navigate to the Student Homepage.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the Personal Information tile.</cmd>
+            </step>
+            <step>
+                <cmd>From the left-hand navigation menu, select 'Privacy Restrictions'.</cmd>
+            </step>
+            <step>
+                <cmd>For each directory field, choose to either restrict or release access:</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Select 'Restrict' to restrict access to a field.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select 'Clear' to release the restriction for a field.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>If you choose a Full Privacy Block:</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Click the Full Privacy Block field.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Check the 'Restricted' box.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select any exceptions you want to grant.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Click the green 'Save' button to save your changes.</cmd>
+            </step>
+        </steps>
+        <result>Your directory information privacy settings have been updated according to your preferences.</result>
+        <postreq>
+            <note type="important">Selecting a "full privacy" block prevents the university from sharing your information with anyone, including employers, and excludes you from graduation and Dean's List publications.</note>
+        </postreq>
+    </taskbody>
+</task>
