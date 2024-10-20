@@ -1,0 +1,33 @@
+<task id="task_view_personal_information">
+    <title>View Your Personal Information</title>
+    <shortdesc>Access and view your personal information in MyPack Portal.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Log in to MyPack Portal.</cmd>
+            </step>
+            <step>
+                <cmd>Navigate to the Student Homepage.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the Personal Information tile.</cmd>
+            </step>
+        </steps>
+        <result>You can now view and update your personal information, including:
+            <ul>
+                <li>Personal Details (Student ID number, Name and Preferred Name)</li>
+                <li>Contact Details (Email addresses, phone numbers)</li>
+                <li>Addresses</li>
+                <li>Emergency Contacts</li>
+                <li>Text/Email Notification Setup</li>
+                <li>Ethnicity</li>
+                <li>Privacy Restrictions</li>
+                <li>Residency</li>
+                <li>Veterans Information</li>
+                <li>OIS Compliance Verification (for International students only)</li>
+                <li>Provide Social Security Number</li>
+                <li>Parent &amp; Guardian Access</li>
+            </ul>
+        </result>
+    </taskbody>
+</task>
