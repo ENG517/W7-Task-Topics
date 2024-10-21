@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="student_privacy_ferpa">
+  <title>Student Privacy and FERPA at NC State</title>
+  <shortdesc>The Family Educational Rights and Privacy Act (FERPA) provides students with rights to protect their personal information at NC State University.</shortdesc>
+  <conbody>
+    <p>FERPA is a federal law that gives students the right to control the disclosure of their directory information. At NC State, this includes:</p>
+    <ul>
+      <li>Preferred email</li>
+      <li>Enrollment status (full-time/part-time)</li>
+      <li>Major field of study</li>
+      <li>Other personal identifiers</li>
+    </ul>
+    <p>Students have the option to restrict all or part of their directory information through the MyPack Portal. This control allows students to manage their privacy and determine how much of their information is accessible to third parties.</p>
+    <p>A full privacy block prevents the university from sharing any information, including with potential employers. It also excludes students from graduation and Dean's List publications. Students can set specific exceptions to a full privacy block for certain publications if desired.</p>
+    <p>Understanding and utilizing these privacy settings is an important aspect of managing your personal information as a student at NC State University.</p>
+  </conbody>
+</concept>

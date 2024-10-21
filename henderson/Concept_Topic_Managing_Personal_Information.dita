@@ -1,0 +1,23 @@
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="managing_personal_info_mypack">
+  <title>Managing Personal Information in MyPack Portal</title>
+  <shortdesc>NC State's MyPack Portal allows students to view and update their personal information securely.</shortdesc>
+  <conbody>
+    <p>The MyPack Portal is a central hub for managing your personal, academic, and financial information at NC State University. Through the Personal Information tile, you can access and update various aspects of your student profile:</p>
+    <ul>
+      <li>Personal Details (Student ID number, Name, and Preferred Name)</li>
+      <li>Contact Details (Email addresses, phone numbers)</li>
+      <li>Addresses</li>
+      <li>Emergency Contacts</li>
+      <li>Text/Email Notification Setup</li>
+      <li>Ethnicity</li>
+      <li>Privacy Restrictions</li>
+      <li>Residency</li>
+      <li>Veterans Information</li>
+      <li>OIS Compliance Verification (for International students only)</li>
+      <li>Provide Social Security Number</li>
+      <li>Parent & Guardian Access</li>
+    </ul>
+    <p>Keeping this information up-to-date is crucial for maintaining accurate university records and ensuring effective communication between the institution and students.</p>
+  </conbody>
+</concept>
