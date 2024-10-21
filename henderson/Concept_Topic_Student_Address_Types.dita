@@ -1,0 +1,18 @@
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="student_address_types">
+  <title>Student Address Types at NC State University</title>
+  <shortdesc>NC State University maintains several types of addresses for students to ensure accurate records and communication.</shortdesc>
+  <conbody>
+    <p>The university collects and maintains various address types for students, each serving a specific purpose:</p>
+    <ul>
+      <li><b>Home Address:</b> Used for mailing purposes, this should be where you want to receive your mail. It can be a PO Box.</li>
+      <li><b>Permanent Address:</b> This address persists beyond your attendance at the university. It may be a parent's address or your own permanent address.</li>
+      <li><b>Local Address:</b> This should be your physical living location while attending NC State. It's used for emergency contact and is verified each term.</li>
+      <li><b>Campus Housing Address:</b> Automatically populated for students living in University-managed housing. Students cannot edit this address.</li>
+      <li><b>Diploma Address:</b> The address where your diploma will be mailed upon graduation. If not provided, the diploma is sent to your Home Address.</li>
+      <li><b>SEVIS Local Address:</b> For international students, this address is sent to SEVIS and should match your Local Address.</li>
+      <li><b>SEVIS Foreign Address:</b> For international students, this is your home foreign address, populated based on admission information.</li>
+    </ul>
+    <p>Regularly updating these addresses ensures that the university can maintain accurate records and communicate effectively with students.</p>
+  </conbody>
+</concept>
