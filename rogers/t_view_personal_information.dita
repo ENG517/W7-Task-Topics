@@ -6,23 +6,15 @@
     <taskbody>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Open My Pack Portal</cmd>
             </step>
             <step>
-                <cmd></cmd>
+                <cmd>Go to Student Home Page</cmd>
             </step>
             <step>
-                <cmd></cmd>
+                <cmd>Go to Personal Information</cmd>
             </step>
-            <step>
-                <cmd></cmd>
-            </step>
-            <step>
-                <cmd></cmd>
-            </step> 
-            <step>
-                <cmd></cmd>
-            </step>
+        
         </steps>
     </taskbody>
 </task>
