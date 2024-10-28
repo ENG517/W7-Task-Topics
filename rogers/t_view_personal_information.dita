@@ -4,6 +4,11 @@
   <!-- Enter task topic content inside the main task element -->
     <title>How to View Your Personal Information</title>
     <taskbody>
+        <prereq>
+            <p>Log into your MyPack Portal</p>
+            <p>Go to Student Homepage</p>
+            <p>Go to Personal Information tile</p>
+        </prereq>
         <steps>
             <step>
                 <cmd>Open My Pack Portal</cmd>

@@ -4,6 +4,12 @@
   <!-- Enter task topic content inside the main task element -->
     <title>How to Restrict Your Personal Information</title>
     <taskbody>
+        <prereq>
+            <p>Log into your MyPack Portal</p>
+            <p>Go to Student Homepage</p>
+            <p>Go to Personal Information tile</p>
+            <p>Go to Privacy Restrictions</p>
+        </prereq>
         <steps>
             <step>
                 <cmd>Select your Student Homepage</cmd>

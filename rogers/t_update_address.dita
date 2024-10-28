@@ -4,6 +4,9 @@
   <!-- Enter task topic content inside the main task element -->
        <title>How To UPDATE an address that you have already provided</title>
     <taskbody>
+        <prereq>
+            <p>Log into your MyPack Portal</p>
+        </prereq>
         <steps>
             <step>
                 <cmd>Select your Student Homepage</cmd>
