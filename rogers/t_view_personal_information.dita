@@ -26,13 +26,16 @@
             <ul>
                 <li>Personal Details (Student ID number, Name and Preferred Name)</li>
                 <li>Contact Details (Email addresses, phone numbers)</li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>Addresses</li>
+                <li>Emergency Contacts</li>
+                <li>Text/Email Notification Setup</li>
+                <li>Ethnicity</li>
+                <li>Privacy Restrictions</li>
+                <li>Residency</li>
+                <li>Veterans Information (Military Affiliation, Request Benefits Certification, Review Benefits Requests)</li>
+                <li>OIS Compliance Verification (for International students only)</li>
+                <li>Provide Social Security Number</li>
+                <li>Parent and Guardian Access</li>
             </ul>
 
         </result>
