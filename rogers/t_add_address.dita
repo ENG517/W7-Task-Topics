@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="add_address">
+<task id="student_services_add_address">
   <!-- Enter task topic content inside the main task element -->
     <title></title>
     <taskbody>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Select your Student Homepage</cmd>
             </step>
             <step>
                 <cmd></cmd>
