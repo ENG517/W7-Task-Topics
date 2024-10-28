@@ -1,0 +1,39 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="student_services_restrict_personal_information">
+  <!-- Enter task topic content inside the main task element -->
+    <title>How to Restrict Your Personal Information</title>
+    <shortdesc>This procedure tells you how to restrict your personal information. This may be useful if you have privacy concerns or what to limit what informaiton is public
+    </shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Log into your MyPack Portal</p>
+            <p>Go to Student Homepage</p>
+            <p>Go to Personal Information tile</p>
+            <p>Go to Privacy Restrictions</p>
+        </prereq>
+        <context>Under the Family Educational Rights and Privacy Act (FERPA), you have the right to restrict all or part of your directory information, which includes your preferred email, your enrollment status (full-time/part-time), major field of study, and more. </context>
+        <steps>
+            <step>
+                <cmd>Select your Student Homepage</cmd>
+            </step>
+            <step>
+                <cmd>Select the ‘Personal Information’ tile</cmd>
+            </step>
+            <step>
+                <cmd>From the left-hand navigation menu, select ‘Privacy Restrictions’</cmd>
+            </step>
+            <step>
+                <cmd>Select ‘Restrict’ under the directory field you would like to restrict access to, OR select ‘Clear’ if you wish to release the restriction for that field</cmd>
+            </step>
+            <step>
+                <cmd>If you choose a Full Privacy Block, you can grant exceptions for certain publications by clicking the Full Privacy Block field, checking the ‘Restricted’ box, and selecting the Exceptions you would like to grant</cmd>
+            </step>
+            <step>
+                <cmd>Be sure to click the green ‘Save’ button to save your changes</cmd>
+            </step>
+
+        </steps>
+
+    </taskbody>
+</task>

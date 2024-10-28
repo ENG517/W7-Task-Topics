@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="student_services_view_personal_information">
+  <!-- Enter task topic content inside the main task element -->
+    <title>How to View Your Personal Information</title>
+    <shortdesc>This procedure allows you to view your personal information. Viewing your information will help you ensure that it is up-to-date.
+    </shortdesc>
+     <taskbody>
+        <prereq>
+            <p>Log into your MyPack Portal</p>
+            <p>Go to Student Homepage</p>
+            <p>Go to Personal Information tile</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Open My Pack Portal</cmd>
+            </step>
+            <step>
+                <cmd>Go to Student Home Page</cmd>
+            </step>
+            <step>
+                <cmd>Go to Personal Information</cmd>
+            </step>
+        
+        </steps>
+        <result>On the Personal Information tile, you will be able to view and update all of your personal information, including:
+
+            <ul>
+                <li>Personal Details (Student ID number, Name and Preferred Name)</li>
+                <li>Contact Details (Email addresses, phone numbers)</li>
+                <li>Addresses</li>
+                <li>Emergency Contacts</li>
+                <li>Text/Email Notification Setup</li>
+                <li>Ethnicity</li>
+                <li>Privacy Restrictions</li>
+                <li>Residency</li>
+                <li>Veterans Information (Military Affiliation, Request Benefits Certification, Review Benefits Requests)</li>
+                <li>OIS Compliance Verification (for International students only)</li>
+                <li>Provide Social Security Number</li>
+                <li>Parent and Guardian Access</li>
+            </ul>
+
+        </result>
+    </taskbody>
+</task>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="student_services_add_address">
+  <!-- Enter task topic content inside the main task element -->
+    <title>How to Add an Address</title>
+    <shortdesc>This procedure explains how to add an adddress. If you have multiple addresses, it may be useful to specifcy which address you want used in a certain situation, such as mailing an diploma, or billing your home address
+    </shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Log into your MyPack Portal</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Select your Student Homepage</cmd>
+            </step>
+            <step>
+                <cmd>Select the ‘Personal Information’ tile</cmd>
+            </step>
+            <step>
+                <cmd>From the left-hand navigation menu, select ‘Addresses’</cmd>
+            </step>
+            <step>
+                <cmd>Under the appropriate header, e.g. ‘Diploma Address,’ if no address is defined, select the ‘Add Diploma Address’ button</cmd>
+            </step> 
+            <step>
+                <cmd>Under the appropriate header, e.g. ‘Diploma Address,’ if no address is defined, select the ‘Add Diploma Address’ button</cmd>
+            </step>
+             <step>
+                <cmd>You can either select the ‘Copy From’ button to copy the address from address that is already on record, or manually enter an address in the given fields</cmd>
+            </step>
+            <step>
+                <cmd>Select the green ‘Save’ button</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
