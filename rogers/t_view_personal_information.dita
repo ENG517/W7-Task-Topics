@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="view_personal_information">
+<task id="student_services_view_personal_information">
   <!-- Enter task topic content inside the main task element -->
     <title></title>
     <taskbody>
-        <prereq></<prereq>
-        <context></<context>
         <steps>
             <step>
-            <cmd></cmd>
+                <cmd></cmd>
+            </step>
+            <step>
+                <cmd></cmd>
+            </step>
+            <step>
+                <cmd></cmd>
+            </step>
+            <step>
+                <cmd></cmd>
+            </step>
+            <step>
+                <cmd></cmd>
+            </step> 
+            <step>
+                <cmd></cmd>
             </step>
         </steps>
     </taskbody>

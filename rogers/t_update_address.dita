@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="update_address">
+<task id="student_services_update_address">
   <!-- Enter task topic content inside the main task element -->
-   
+       <title></title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select your Student Homepage</cmd>
+            </step>
+            <step>
+                <cmd>Select the ‘Personal Information’ tile</cmd>
+            </step>
+            <step>
+                <cmd>From the left-hand navigation menu, select ‘Addresses’</cmd>
+            </step>
+            <step>
+                <cmd>Under the appropriate header, e.g. ‘Home Address,’ click on the address box under the appropriate header</cmd>
+            </step>
+            <step>
+                <cmd>Update the address fields as necessary</cmd>
+            </step> 
+            <step>
+                <cmd>Select the green ‘Save’ button</cmd>
+            </step>
+        </steps>
+    </taskbody>
 </task>
