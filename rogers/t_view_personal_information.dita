@@ -21,5 +21,20 @@
             </step>
         
         </steps>
+        <result>On the Personal Information tile, you will be able to view and update all of your personal information, including:
+
+            <ul>
+                <li>Personal Details (Student ID number, Name and Preferred Name)</li>
+                <li>Contact Details (Email addresses, phone numbers)</li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+
+        </result>
     </taskbody>
 </task>
