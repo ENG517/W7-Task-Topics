@@ -2,7 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="student_services_update_address">
   <!-- Enter task topic content inside the main task element -->
-       <title>How To UPDATE an address that you have already provided</title>
+    <title>How To UPDATE an address that you have already provided</title>
+    <shortdesc>Updating an address is useful when one of your addresses has changed. For example, you will want to update your Campus Housing address if you switch dorm rooms during the semester
+    </shortdesc>
     <taskbody>
         <prereq>
             <p>Log into your MyPack Portal</p>

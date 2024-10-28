@@ -3,6 +3,8 @@
 <task id="student_services_add_address">
   <!-- Enter task topic content inside the main task element -->
     <title>How to Add an Address</title>
+    <shortdesc>This procedure explains how to add an adddress. If you have multiple addresses, it may be useful to specifcy which address you want used in a certain situation, such as mailing an diploma, or billing your home address
+    </shortdesc>
     <taskbody>
         <prereq>
             <p>Log into your MyPack Portal</p>

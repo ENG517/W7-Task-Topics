@@ -3,6 +3,8 @@
 <task id="student_services_restrict_personal_information">
   <!-- Enter task topic content inside the main task element -->
     <title>How to Restrict Your Personal Information</title>
+    <shortdesc>This procedure tells you how to restrict your personal information. This may be useful if you have privacy concerns or what to limit what informaiton is public
+    </shortdesc>
     <taskbody>
         <prereq>
             <p>Log into your MyPack Portal</p>
@@ -10,6 +12,7 @@
             <p>Go to Personal Information tile</p>
             <p>Go to Privacy Restrictions</p>
         </prereq>
+        <context>Under the Family Educational Rights and Privacy Act (FERPA), you have the right to restrict all or part of your directory information, which includes your preferred email, your enrollment status (full-time/part-time), major field of study, and more. </context>
         <steps>
             <step>
                 <cmd>Select your Student Homepage</cmd>

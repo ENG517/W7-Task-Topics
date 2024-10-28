@@ -3,7 +3,9 @@
 <task id="student_services_view_personal_information">
   <!-- Enter task topic content inside the main task element -->
     <title>How to View Your Personal Information</title>
-    <taskbody>
+    <shortdesc>This procedure allows you to view your personal information. Viewing your information will help you ensure that it is up-to-date.
+    </shortdesc>
+     <taskbody>
         <prereq>
             <p>Log into your MyPack Portal</p>
             <p>Go to Student Homepage</p>
