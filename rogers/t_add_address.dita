@@ -12,13 +12,13 @@
                 <cmd>Select the ‘Personal Information’ tile</cmd>
             </step>
             <step>
-                <cmd></cmd>
+                <cmd>From the left-hand navigation menu, select ‘Addresses’</cmd>
             </step>
             <step>
-                <cmd></cmd>
+                <cmd>Under the appropriate header, e.g. ‘Diploma Address,’ if no address is defined, select the ‘Add Diploma Address’ button</cmd>
             </step> 
             <step>
-                <cmd></cmd>
+                <cmd>Under the appropriate header, e.g. ‘Diploma Address,’ if no address is defined, select the ‘Add Diploma Address’ button</cmd>
             </step>
         </steps>
     </taskbody>
