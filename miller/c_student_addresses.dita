@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="student-addresses">
+  <title>Student Addresses</title>
+  <shortdesc>N.C State stores student addresses in the student directory. Accurate and up-to-date information helps facilitate clear communication between the university and student body.</shortdesc>
+  <conbody>
+    <p>NC State University collects student address information through the student admission process. The university maintains several addresses for students in order to maintain accurate student records and information. Students are asked to regularly verify and update address information on record with the university through the MyPack Portal student information system.</p>
+    <p>It's essential the following addresses are accurate:</p>
+    <ul>
+      <li>Home Address*</li>
+      <li>Permanent Address*</li>
+      <li>Local Address*</li>
+      <li>Campus Housing Address</li>
+      <li>Diploma Address</li>
+      <li>SEVIS Local Address**</li>
+      <li>SEVIS Foreign Address**</li>
+    </ul>
+    <p>* = required for all students</p>
+    <p>* = required for international students</p>
+  </conbody>
+  </concept>
