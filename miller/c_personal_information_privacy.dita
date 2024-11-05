@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="personal_information_privacy"></concept>
+<concept id="personal-information-privacy">
   <title>Personal Information and Privacy</title>
   <shortdesc>You can use your NC State Unity account to access your personal, academic and financial information, and it's very important that you keep this information safe.</shortdesc>
   <conbody>
+    <section>
     <p>On the Personal Information tile, you will be able to view and update all of your personal information, including</p>
     <ul>
       <li>Personal Details (Student ID number, Name and Preferred Name)</li>
@@ -19,4 +20,6 @@
       <li>Provide Social Security Number</li>
       <li>Parent and Guardian Access</li>
     </ul>
+    </section>
   </conbody>
+</concept>
