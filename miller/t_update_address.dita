@@ -11,7 +11,7 @@
       <cmd>Select your Student Homepage</cmd>
     </step>
     <step>
-      cmd>Select the ‘Personal Information’ tile</cmd>
+      <cmd>Select the ‘Personal Information’ tile</cmd>
     </step>
     <step>
       <cmd>From the left-hand navigation menu, select ‘Addresses’</cmd>
