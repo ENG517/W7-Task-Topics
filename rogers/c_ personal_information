@@ -2,5 +2,31 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_student_services_personal_information">
 <title>Personal Information</title>
-    <conbody>You can use your NC State Unity account to access your personal, academic and financial information, and it's very important that you keep this information safe. </conbody>
+<shortdesc>You can use your NC State Unity account to access your personal, academic and financial information, and it's very important that you keep this information safe. Use the resources and information below to protect your privacy.</shortdesc>
+    <conbody>
+        <section>
+            <title>View Your Personal Information</title>
+                <p>To view or change your personal information in MyPack Portal: <menucascade>
+                    <uicontrol>MyPack Portal</uicontrol>
+                    <uicontrol>Student Homepage</uicontrol>
+                    <uicontrol>Personal Information tile</uicontrol>                                                                                                 
+                </menucascade></p>
+                <p>On the Personal Information tile, you will be able to view and update all of your personal information, including:</p>
+                    <ul>
+                        <li>Personal Details (Student ID number, Name and Preferred Name)</li>
+                        <li>Contact Details (Email addresses, phone numbers)</li>
+                        <li>Addresses</li>
+                        <li>Emergency Contacts</li>
+                        <li>Text/Email Notification Setup</li>
+                        <li>Ethnicity</li>
+                        <li>Privacy Restrictions</li>
+                        <li>Residency</li>
+                        <li>Veterans Information (Military Affiliation, Request Benefits Certification, Review Benefits Requests)</li>
+                        <li>OIS Compliance Verification (for International students only)</li>
+                        <li>Provide Social Security Number</li>
+                        <li>Parent and Guardian Access</li>                                                                            
+                    </ul>
+        </section>
+    
+    </conbody>
 </concept>
